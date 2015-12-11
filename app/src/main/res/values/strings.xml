@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Photo Tagger</string>
+    <string name="takePhotoButton">Take Photo</string>
+    <string name="photoTags">Tags:</string>
+    <string name="imageShow">imageShow</string>
+    <string name="choosePhotoButton">Choose Photo</string>
+</resources>
