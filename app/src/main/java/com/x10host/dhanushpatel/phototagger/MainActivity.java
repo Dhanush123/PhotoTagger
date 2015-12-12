@@ -4,16 +4,13 @@ import android.content.ContentResolver;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
-import android.graphics.Point;
 import android.graphics.drawable.BitmapDrawable;
-import android.media.ExifInterface;
 import android.net.Uri;
 import android.os.Bundle;
 import android.os.Environment;
 import android.provider.MediaStore;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
-import android.view.Display;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
@@ -99,6 +96,8 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent intent) {
         if (requestCode ==  PICK_PHOTO && resultCode == RESULT_OK && intent != null) {
+            photoTags.setText("Analyzing photo...");
+
             Uri selectedImage = intent.getData();
             InputStream inputStream = null;
             mChoosenPhotoPath = selectedImage.getPath();
@@ -118,11 +117,29 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
             chosenBitmap = BitmapFactory.decodeStream(inputStream);
-            scaleBitmap();
+
+            int currentBitmapWidth = chosenBitmap.getWidth();
+            int currentBitmapHeight = chosenBitmap.getHeight();
+
+            int ivWidth = photoShow.getWidth();
+            int ivHeight = photoShow.getHeight();
+            int newWidth = ivWidth;
+
+            int newHeight = (int) Math.floor((double) currentBitmapHeight * ((double) newWidth / (double) currentBitmapWidth));
+
+            Bitmap newbitMap = Bitmap.createScaledBitmap(chosenBitmap, newWidth, newHeight, true);
+
+            photoShow.setImageBitmap(newbitMap);
+            //photoShow.setImageBitmap(chosenBitmap);
+
+
+          //  scaleBitmap();
+
             SendAlchemyCall("imageClassify");
         }
 
         if (requestCode == TAKE_PICTURE && resultCode == RESULT_OK && intent != null) {
+            photoTags.setText("Analyzing photo...");
             // get bundle
             Bundle extras = intent.getExtras();
             //Convert bitmap to byte array
@@ -225,51 +242,46 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    private void ShowTagInTextView(final Document doc, final String tag)
-    {
+    private void ShowTagInTextView(final Document doc, final String tag) {
         Log.d(getString(R.string.app_name), doc.toString());
         runOnUiThread(new Runnable() {
             @Override
             public void run() {
-                photoTags.setText("Analyzing photo...");
                 Element root = doc.getDocumentElement();
                 NodeList items = root.getElementsByTagName(tag);
-
+                /**
                 ExifInterface exif = null;
                 try {
-                    if(pickOrChoose) {
+                    if (pickOrChoose) {
                         exif = new ExifInterface(mTakenPhotoPath);
-                    }
-                    else{
+                    } else {
                         exif = new ExifInterface(mChoosenPhotoPath);
                     }
                 } catch (IOException e) {
                     e.printStackTrace();
                 }
-                //ArrayList<String> tags = new ArrayList<String>();
-                for (int i=0;i<items.getLength();i++) {
+                **/
+                for (int i = 0; i < items.getLength(); i++) {
                     Node concept = items.item(i);
-                    String astring = concept.getNodeValue();
-                    astring = concept.getChildNodes().item(0).getNodeValue();
-                    //tags.add(astring);
-                    if(i==0){
+                    String astring = concept.getChildNodes().item(0).getNodeValue();
+                    if (i == 0) {
                         photoTags.setText("Tags: " + astring);
                         tags = astring;
-                        exif.setAttribute("UserComment",astring);
-                    }
-                    else {
+                       // exif.setAttribute("UserComment", astring);
+                    } else {
                         photoTags.append(", " + astring);
                         tags = tags + ", " + astring;
-                        exif.setAttribute("UserComment",exif.getAttribute("UserComment")+", " + astring);
+                       // exif.setAttribute("UserComment", exif.getAttribute("UserComment") + ", " + astring);
                     }
                 }
-                Log.i("photo tags are",tags);
-
+                Log.i("photo tags are", tags);
+                /**
                 try {
                     exif.saveAttributes();
                 } catch (IOException e) {
                     e.printStackTrace();
                 }
+                **/
             }
         });
     }
@@ -306,6 +318,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void scaleBitmap(){
+        /**
         Bitmap myBitmap = chosenBitmap;
         Display display = getWindowManager().getDefaultDisplay();
         Point size = new Point();
@@ -320,6 +333,8 @@ public class MainActivity extends AppCompatActivity {
         Log.e("Scaled percent ", " "+scaleHt);
         Bitmap scaled = Bitmap.createScaledBitmap(myBitmap, width, (int) (myBitmap.getWidth()*scaleHt), true);
         photoShow.setImageBitmap(scaled);
+         **/
     }
+
 
 }
