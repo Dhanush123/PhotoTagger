@@ -1,0 +1,167 @@
+[
+    {
+        "outputFile": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/res/merged/release/values-v23/values-v23.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 367
+                },
+                "from": {
+                    "file": "/Users/chapatel/GitHub/PhotoTagger/app/src/main/res/values-v23/styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 54,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 372,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 697
+                },
+                "from": {
+                    "file": "/Users/chapatel/GitHub/PhotoTagger/app/src/main/res/values-v23/styles.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 371,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 702,
+                    "endColumn": 134,
+                    "endOffset": 832
+                },
+                "from": {
+                    "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v23/values-v23.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 239,
+                        "endColumn": 134,
+                        "endOffset": 369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 837,
+                    "endColumn": 74,
+                    "endOffset": 907
+                },
+                "from": {
+                    "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v23/values-v23.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 553,
+                        "endColumn": 74,
+                        "endOffset": 623
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 912,
+                    "endColumn": 86,
+                    "endOffset": 994
+                },
+                "from": {
+                    "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v23/values-v23.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 628,
+                        "endColumn": 86,
+                        "endOffset": 710
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 999,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1552
+                },
+                "from": {
+                    "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v23/values-v23.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 715,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 1268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1557,
+                    "endLine": 34,
+                    "endColumn": 12,
+                    "endOffset": 2122
+                },
+                "from": {
+                    "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v23/values-v23.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1273,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 1838
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2127,
+                    "endColumn": 104,
+                    "endOffset": 2227
+                },
+                "from": {
+                    "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v23/values-v23.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2022,
+                        "endColumn": 104,
+                        "endOffset": 2122
+                    }
+                }
+            }
+        ]
+    }
+]

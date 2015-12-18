@@ -8,6 +8,10 @@
         "source": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_activity_chooser_view.xml"
     },
     {
+        "merged": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/res/merged/debug/layout/app_bar.xml",
+        "source": "/Users/chapatel/GitHub/PhotoTagger/app/src/main/res/layout/app_bar.xml"
+    },
+    {
         "merged": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
         "source": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_bar_title_item.xml"
     },
