@@ -76,6 +76,10 @@
         "source": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_track_material.xml"
     },
     {
+        "merged": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/res/merged/release/drawable/share.png",
+        "source": "/Users/chapatel/GitHub/PhotoTagger/app/src/main/res/drawable/share.png"
+    },
+    {
         "merged": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/res/merged/release/drawable/phototaggericon.png",
         "source": "/Users/chapatel/GitHub/PhotoTagger/app/src/main/res/drawable/phototaggericon.png"
     },

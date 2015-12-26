@@ -20,9 +20,12 @@ import android.provider.MediaStore;
 import android.provider.Settings;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.ShareActionProvider;
 import android.support.v7.widget.Toolbar;
 import android.text.method.ScrollingMovementMethod;
 import android.util.Log;
+import android.view.Menu;
+import android.view.MenuItem;
 import android.view.View;
 import android.view.WindowManager;
 import android.widget.Button;
@@ -58,6 +61,7 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
+    private ShareActionProvider mShareActionProvider;
     static int TAKE_PICTURE = 1;
     static int PICK_PHOTO = 2;
     boolean pickOrChoose = true;
@@ -112,6 +116,45 @@ public class MainActivity extends AppCompatActivity {
         if(!isNetworkAvailable()){
             createNetworkErrorDialog();
         }
+    }
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        // Inflate the menu; this adds items to the action bar if it is present.
+        getMenuInflater().inflate(R.menu.menu, menu);
+        return true;
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        // Handle action bar item clicks here. The action bar will
+        // automatically handle clicks on the Home/Up button, so long
+        // as you specify a parent activity in AndroidManifest.xml.
+        int id = item.getItemId();
+
+        //noinspection SimplifiableIfStatement
+        if (id == R.id.menu_item_share) {
+
+            if(photoShow.getDrawable() != null) {
+                Bitmap b = ((BitmapDrawable) photoShow.getDrawable()).getBitmap();
+                Intent share = new Intent(Intent.ACTION_SEND);
+                share.setType("image/jpeg");
+                ByteArrayOutputStream bytes = new ByteArrayOutputStream();
+                b.compress(Bitmap.CompressFormat.JPEG, 100, bytes);
+                String path = MediaStore.Images.Media.insertImage(getContentResolver(),
+                        b, "Title", null);
+                Uri imageUri = Uri.parse(path);
+                share.putExtra(Intent.EXTRA_STREAM, imageUri);
+                share.putExtra(Intent.EXTRA_TEXT, "I found these things in this photo: " + tags);
+                startActivity(Intent.createChooser(share, "Select"));
+                return true;
+            }
+            else{
+                Toast.makeText(getApplicationContext(),"Please scan a photo first.",Toast.LENGTH_SHORT).show();
+            }
+        }
+
+        return super.onOptionsItemSelected(item);
     }
 
     private void buttonListeners() {

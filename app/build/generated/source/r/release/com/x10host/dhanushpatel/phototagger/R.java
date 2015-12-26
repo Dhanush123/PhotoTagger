@@ -1637,8 +1637,9 @@ containing a value of this type.
         public static final int background=0x7f020045;
         public static final int common_full_open_on_phone=0x7f020046;
         public static final int common_ic_googleplayservices=0x7f020047;
-        public static final int notification_template_icon_bg=0x7f020049;
+        public static final int notification_template_icon_bg=0x7f02004a;
         public static final int phototaggericon=0x7f020048;
+        public static final int share=0x7f020049;
     }
     public static final class id {
         public static final int action0=0x7f0c005a;
@@ -1692,6 +1693,7 @@ containing a value of this type.
         public static final int listMode=0x7f0c0009;
         public static final int list_item=0x7f0c002a;
         public static final int media_actions=0x7f0c005d;
+        public static final int menu_item_share=0x7f0c0067;
         public static final int middle=0x7f0c001a;
         public static final int multiply=0x7f0c0013;
         public static final int my_toolbar=0x7f0c0059;
@@ -1793,6 +1795,9 @@ containing a value of this type.
         public static final int select_dialog_multichoice_material=0x7f040024;
         public static final int select_dialog_singlechoice_material=0x7f040025;
         public static final int support_simple_spinner_dropdown_item=0x7f040026;
+    }
+    public static final class menu {
+        public static final int menu=0x7f0d0000;
     }
     public static final class mipmap {
         public static final int ic_launcher=0x7f030000;
