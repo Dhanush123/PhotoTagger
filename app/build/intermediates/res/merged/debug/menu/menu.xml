@@ -2,9 +2,21 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item
+        android:id="@+id/menu_item_search"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_search"
+        android:title="Search"
+        />
+    <item
         android:id="@+id/menu_item_share"
         app:showAsAction="ifRoom"
-        android:icon="@drawable/share"
+        android:icon="@drawable/ic_share"
         android:title="Share"
        />
+    <item
+        android:id="@+id/menu_item_settings"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_settings"
+        android:title="Setting"
+        />
 </menu>

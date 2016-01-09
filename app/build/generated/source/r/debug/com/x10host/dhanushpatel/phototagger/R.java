@@ -1637,9 +1637,12 @@ containing a value of this type.
         public static final int background=0x7f020045;
         public static final int common_full_open_on_phone=0x7f020046;
         public static final int common_ic_googleplayservices=0x7f020047;
-        public static final int notification_template_icon_bg=0x7f02004a;
-        public static final int phototaggericon=0x7f020048;
-        public static final int share=0x7f020049;
+        public static final int ic_search=0x7f020048;
+        public static final int ic_settings=0x7f020049;
+        public static final int ic_share=0x7f02004a;
+        public static final int notification_template_icon_bg=0x7f02004d;
+        public static final int phototaggericon=0x7f02004b;
+        public static final int share=0x7f02004c;
     }
     public static final class id {
         public static final int action0=0x7f0c005a;
@@ -1693,7 +1696,9 @@ containing a value of this type.
         public static final int listMode=0x7f0c0009;
         public static final int list_item=0x7f0c002a;
         public static final int media_actions=0x7f0c005d;
-        public static final int menu_item_share=0x7f0c0067;
+        public static final int menu_item_search=0x7f0c0067;
+        public static final int menu_item_settings=0x7f0c0069;
+        public static final int menu_item_share=0x7f0c0068;
         public static final int middle=0x7f0c001a;
         public static final int multiply=0x7f0c0013;
         public static final int my_toolbar=0x7f0c0059;

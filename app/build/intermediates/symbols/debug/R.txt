@@ -460,9 +460,12 @@ int drawable abc_textfield_search_material 0x7f020044
 int drawable background 0x7f020045
 int drawable common_full_open_on_phone 0x7f020046
 int drawable common_ic_googleplayservices 0x7f020047
-int drawable notification_template_icon_bg 0x7f02004a
-int drawable phototaggericon 0x7f020048
-int drawable share 0x7f020049
+int drawable ic_search 0x7f020048
+int drawable ic_settings 0x7f020049
+int drawable ic_share 0x7f02004a
+int drawable notification_template_icon_bg 0x7f02004d
+int drawable phototaggericon 0x7f02004b
+int drawable share 0x7f02004c
 int id action0 0x7f0c005a
 int id action_bar 0x7f0c0043
 int id action_bar_activity_content 0x7f0c0000
@@ -514,7 +517,9 @@ int id linearLay2 0x7f0c0053
 int id listMode 0x7f0c0009
 int id list_item 0x7f0c002a
 int id media_actions 0x7f0c005d
-int id menu_item_share 0x7f0c0067
+int id menu_item_search 0x7f0c0067
+int id menu_item_settings 0x7f0c0069
+int id menu_item_share 0x7f0c0068
 int id middle 0x7f0c001a
 int id multiply 0x7f0c0013
 int id my_toolbar 0x7f0c0059

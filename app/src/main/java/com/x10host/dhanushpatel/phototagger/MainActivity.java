@@ -1,6 +1,7 @@
 package com.x10host.dhanushpatel.phototagger;
 
 import android.app.Activity;
+import android.app.SearchManager;
 import android.content.ContentResolver;
 import android.content.Context;
 import android.content.DialogInterface;
@@ -22,6 +23,7 @@ import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.ShareActionProvider;
 import android.support.v7.widget.Toolbar;
+import android.text.InputType;
 import android.text.method.ScrollingMovementMethod;
 import android.util.Log;
 import android.view.Menu;
@@ -29,6 +31,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.WindowManager;
 import android.widget.Button;
+import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -74,6 +77,7 @@ public class MainActivity extends AppCompatActivity {
     String mTakenPhotoPath;
     String mChoosenPhotoPath;
     String tags;
+    String firstTag;
     ClarifaiClient clarifai;
     String AlchemyAPI_Key = Constants.API_KEY;
     List<RecognitionResult> results;
@@ -152,6 +156,13 @@ public class MainActivity extends AppCompatActivity {
             else{
                 Toast.makeText(getApplicationContext(),"Please scan a photo first.",Toast.LENGTH_SHORT).show();
             }
+        }
+        else if (id == R.id.menu_item_search) {
+            onCreateSearchDialog();
+        }
+        else if (id == R.id.menu_item_settings){
+            Toast.makeText(getApplicationContext(),"Surprises await a future update!",Toast.LENGTH_SHORT).show();
+            //nothing yet
         }
 
         return super.onOptionsItemSelected(item);
@@ -309,6 +320,44 @@ public class MainActivity extends AppCompatActivity {
         alert.show();
     }
 
+    public void onCreateSearchDialog() {
+        AlertDialog.Builder builder = new AlertDialog.Builder(this);
+        builder.setTitle("Research Tags");
+
+        // Set up the input
+        final EditText input = new EditText(this);
+        // Specify the type of input expected
+        input.setInputType(InputType.TYPE_CLASS_TEXT);
+        if(firstTag==null){
+            input.setHint("ex: car");
+        }
+        else {
+            input.setHint("ex: " + firstTag);
+        }
+        builder.setView(input);
+
+        // Set up the buttons
+        builder.setPositiveButton("Search", new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialog, int which) {
+                String searchText = input.getText().toString();
+                Log.i("user web search: ",searchText);
+                if(!searchText.equals("") && !searchText.equals(" ") && searchText!=null ){
+                    Intent intent = new Intent(Intent.ACTION_WEB_SEARCH);
+                    intent.putExtra(SearchManager.QUERY, searchText);
+                    startActivity(intent);
+                }
+            }
+        });
+        builder.setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialog, int which) {
+                dialog.cancel();
+            }
+        });
+
+        builder.show();
+    }
 
     private void clarifaiUIUpdate(){
 
@@ -323,6 +372,7 @@ public class MainActivity extends AppCompatActivity {
             for(int i=0; i < tagsFound.size();i++){
                 tag = tagsFound.get(i).getName();
                 if (i == 0) {
+                    firstTag = tag;
                     photoTags.setText("Tags: " + tag);
                     tags = tag;
                     // exif.setAttribute("UserComment", astring);
@@ -507,6 +557,7 @@ public class MainActivity extends AppCompatActivity {
                     if (i == 0 && aString.equals("NO_TAGS")) {
                         photoTags.setText("No simple tags could be found...");
                     } else if (i == 0 && !aString.equals("NO_TAGS")) {
+                        firstTag = aString;
                         photoTags.setText("Tags: " + aString);
                         tags = aString;
                         // exif.setAttribute("UserComment", aString);
