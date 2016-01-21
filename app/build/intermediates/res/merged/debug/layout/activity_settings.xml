@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SettingsActivity"
+    android:background="@drawable/tiles"
+    android:id="@+id/settingsPage">
+
+    <LinearLayout
+        android:id="@+id/linearLay"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true">
+        <include
+            layout="@layout/app_bar"
+            />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Choose a Background"
+        android:id="@+id/textView"
+        android:layout_below="@id/linearLay"
+        android:padding="10dp"/>
+
+    <LinearLayout
+        android:id="@+id/linearLay2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_below="@+id/textView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <RadioGroup
+            android:id="@+id/radioGroup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="10dp"
+            >
+
+            <RadioButton
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:id="@+id/tilesBack"
+                android:checked="true"
+                android:button="@drawable/tiles"
+                android:layout_margin="10dp"/>
+
+            <RadioButton
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:id="@+id/woodBack"
+                android:checked="false"
+                android:button="@drawable/darkwood"
+                android:layout_margin="10dp"/>
+
+            <RadioButton
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:id="@+id/linenBack"
+                android:checked="false"
+                android:button="@drawable/blacklinen"
+                android:layout_margin="10dp"/>
+
+        </RadioGroup>
+
+    </LinearLayout>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/feedbackButton"
+        android:id="@+id/feedbackButton"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:layout_below="@+id/linearLay2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+</RelativeLayout>

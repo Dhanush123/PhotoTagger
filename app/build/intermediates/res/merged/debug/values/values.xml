@@ -259,10 +259,12 @@
     <string name="common_google_play_services_updating_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are currently updating.</string>
     <string name="common_google_play_services_updating_title">Google Play services are updating</string>
     <string name="common_open_on_phone">Open on phone</string>
+    <string name="feedbackButton">Send Feedback!</string>
     <string name="imageShow">imageShow</string>
     <string name="photoTags">Tags:</string>
     <string name="retryIDButton">Advanced Scan Photo</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="superScanButton">Video Scan</string>
     <string name="takePhotoButton">Take Photo</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>

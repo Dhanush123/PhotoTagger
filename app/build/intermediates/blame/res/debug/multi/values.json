@@ -4377,8 +4377,27 @@
                     "startLine": 261,
                     "startColumn": 4,
                     "startOffset": 34279,
+                    "endColumn": 57,
+                    "endOffset": 34332
+                },
+                "from": {
+                    "file": "/Users/chapatel/GitHub/PhotoTagger/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 57,
+                        "endOffset": 442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 262,
+                    "startColumn": 4,
+                    "startOffset": 34337,
                     "endColumn": 47,
-                    "endOffset": 34322
+                    "endOffset": 34380
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/src/main/res/values/strings.xml",
@@ -4393,11 +4412,11 @@
             },
             {
                 "to": {
-                    "startLine": 262,
+                    "startLine": 263,
                     "startColumn": 4,
-                    "startOffset": 34327,
+                    "startOffset": 34385,
                     "endColumn": 43,
-                    "endOffset": 34366
+                    "endOffset": 34424
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/src/main/res/values/strings.xml",
@@ -4412,11 +4431,11 @@
             },
             {
                 "to": {
-                    "startLine": 263,
+                    "startLine": 264,
                     "startColumn": 4,
-                    "startOffset": 34371,
+                    "startOffset": 34429,
                     "endColumn": 61,
-                    "endOffset": 34428
+                    "endOffset": 34486
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/src/main/res/values/strings.xml",
@@ -4431,11 +4450,11 @@
             },
             {
                 "to": {
-                    "startLine": 264,
+                    "startLine": 265,
                     "startColumn": 4,
-                    "startOffset": 34433,
+                    "startOffset": 34491,
                     "endColumn": 70,
-                    "endOffset": 34499
+                    "endOffset": 34557
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4450,11 +4469,30 @@
             },
             {
                 "to": {
-                    "startLine": 265,
+                    "startLine": 266,
                     "startColumn": 4,
-                    "startOffset": 34504,
+                    "startOffset": 34562,
                     "endColumn": 54,
-                    "endOffset": 34554
+                    "endOffset": 34612
+                },
+                "from": {
+                    "file": "/Users/chapatel/GitHub/PhotoTagger/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 334,
+                        "endColumn": 54,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 267,
+                    "startColumn": 4,
+                    "startOffset": 34617,
+                    "endColumn": 54,
+                    "endOffset": 34667
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/src/main/res/values/strings.xml",
@@ -4469,11 +4507,11 @@
             },
             {
                 "to": {
-                    "startLine": 266,
+                    "startLine": 268,
                     "startColumn": 4,
-                    "startOffset": 34559,
+                    "startOffset": 34672,
                     "endColumn": 77,
-                    "endOffset": 34632
+                    "endOffset": 34745
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4488,11 +4526,11 @@
             },
             {
                 "to": {
-                    "startLine": 267,
+                    "startLine": 269,
                     "startColumn": 4,
-                    "startOffset": 34637,
+                    "startOffset": 34750,
                     "endColumn": 89,
-                    "endOffset": 34722
+                    "endOffset": 34835
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4507,11 +4545,11 @@
             },
             {
                 "to": {
-                    "startLine": 268,
+                    "startLine": 270,
                     "startColumn": 4,
-                    "startOffset": 34727,
+                    "startOffset": 34840,
                     "endColumn": 87,
-                    "endOffset": 34810
+                    "endOffset": 34923
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4526,11 +4564,11 @@
             },
             {
                 "to": {
-                    "startLine": 269,
+                    "startLine": 271,
                     "startColumn": 4,
-                    "startOffset": 34815,
+                    "startOffset": 34928,
                     "endColumn": 95,
-                    "endOffset": 34906
+                    "endOffset": 35019
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4545,12 +4583,12 @@
             },
             {
                 "to": {
-                    "startLine": 270,
+                    "startLine": 272,
                     "startColumn": 4,
-                    "startOffset": 34911,
-                    "endLine": 272,
+                    "startOffset": 35024,
+                    "endLine": 274,
                     "endColumn": 12,
-                    "endOffset": 35014
+                    "endOffset": 35127
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/src/main/res/values/styles.xml",
@@ -4566,12 +4604,12 @@
             },
             {
                 "to": {
-                    "startLine": 273,
+                    "startLine": 275,
                     "startColumn": 4,
-                    "startOffset": 35019,
-                    "endLine": 277,
+                    "startOffset": 35132,
+                    "endLine": 279,
                     "endColumn": 12,
-                    "endOffset": 35292
+                    "endOffset": 35405
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/src/main/res/values/styles.xml",
@@ -4587,12 +4625,12 @@
             },
             {
                 "to": {
-                    "startLine": 278,
+                    "startLine": 280,
                     "startColumn": 4,
-                    "startOffset": 35297,
-                    "endLine": 283,
+                    "startOffset": 35410,
+                    "endLine": 285,
                     "endColumn": 12,
-                    "endOffset": 35622
+                    "endOffset": 35735
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/src/main/res/values/styles.xml",
@@ -4608,12 +4646,12 @@
             },
             {
                 "to": {
-                    "startLine": 284,
+                    "startLine": 286,
                     "startColumn": 4,
-                    "startOffset": 35627,
-                    "endLine": 290,
+                    "startOffset": 35740,
+                    "endLine": 292,
                     "endColumn": 12,
-                    "endOffset": 36123
+                    "endOffset": 36236
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4629,11 +4667,11 @@
             },
             {
                 "to": {
-                    "startLine": 291,
+                    "startLine": 293,
                     "startColumn": 4,
-                    "startOffset": 36128,
+                    "startOffset": 36241,
                     "endColumn": 88,
-                    "endOffset": 36212
+                    "endOffset": 36325
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4648,12 +4686,12 @@
             },
             {
                 "to": {
-                    "startLine": 292,
+                    "startLine": 294,
                     "startColumn": 4,
-                    "startOffset": 36217,
-                    "endLine": 295,
+                    "startOffset": 36330,
+                    "endLine": 297,
                     "endColumn": 12,
-                    "endOffset": 36459
+                    "endOffset": 36572
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4669,12 +4707,12 @@
             },
             {
                 "to": {
-                    "startLine": 296,
+                    "startLine": 298,
                     "startColumn": 4,
-                    "startOffset": 36464,
-                    "endLine": 299,
+                    "startOffset": 36577,
+                    "endLine": 301,
                     "endColumn": 12,
-                    "endOffset": 36740
+                    "endOffset": 36853
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4690,12 +4728,12 @@
             },
             {
                 "to": {
-                    "startLine": 300,
+                    "startLine": 302,
                     "startColumn": 4,
-                    "startOffset": 36745,
-                    "endLine": 304,
+                    "startOffset": 36858,
+                    "endLine": 306,
                     "endColumn": 12,
-                    "endOffset": 37025
+                    "endOffset": 37138
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4711,12 +4749,12 @@
             },
             {
                 "to": {
-                    "startLine": 305,
+                    "startLine": 307,
                     "startColumn": 4,
-                    "startOffset": 37030,
-                    "endLine": 310,
+                    "startOffset": 37143,
+                    "endLine": 312,
                     "endColumn": 12,
-                    "endOffset": 37418
+                    "endOffset": 37531
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4732,12 +4770,12 @@
             },
             {
                 "to": {
-                    "startLine": 311,
+                    "startLine": 313,
                     "startColumn": 4,
-                    "startOffset": 37423,
-                    "endLine": 317,
+                    "startOffset": 37536,
+                    "endLine": 319,
                     "endColumn": 12,
-                    "endOffset": 37895
+                    "endOffset": 38008
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4753,12 +4791,12 @@
             },
             {
                 "to": {
-                    "startLine": 318,
+                    "startLine": 320,
                     "startColumn": 4,
-                    "startOffset": 37900,
-                    "endLine": 321,
+                    "startOffset": 38013,
+                    "endLine": 323,
                     "endColumn": 12,
-                    "endOffset": 38117
+                    "endOffset": 38230
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4774,12 +4812,12 @@
             },
             {
                 "to": {
-                    "startLine": 322,
+                    "startLine": 324,
                     "startColumn": 4,
-                    "startOffset": 38122,
-                    "endLine": 325,
+                    "startOffset": 38235,
+                    "endLine": 327,
                     "endColumn": 12,
-                    "endOffset": 38339
+                    "endOffset": 38452
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4795,12 +4833,12 @@
             },
             {
                 "to": {
-                    "startLine": 326,
+                    "startLine": 328,
                     "startColumn": 4,
-                    "startOffset": 38344,
-                    "endLine": 330,
+                    "startOffset": 38457,
+                    "endLine": 332,
                     "endColumn": 12,
-                    "endOffset": 38607
+                    "endOffset": 38720
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4816,12 +4854,12 @@
             },
             {
                 "to": {
-                    "startLine": 331,
+                    "startLine": 333,
                     "startColumn": 4,
-                    "startOffset": 38612,
-                    "endLine": 334,
+                    "startOffset": 38725,
+                    "endLine": 336,
                     "endColumn": 12,
-                    "endOffset": 38834
+                    "endOffset": 38947
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4837,12 +4875,12 @@
             },
             {
                 "to": {
-                    "startLine": 335,
+                    "startLine": 337,
                     "startColumn": 4,
-                    "startOffset": 38839,
-                    "endLine": 338,
+                    "startOffset": 38952,
+                    "endLine": 340,
                     "endColumn": 12,
-                    "endOffset": 39064
+                    "endOffset": 39177
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4858,12 +4896,12 @@
             },
             {
                 "to": {
-                    "startLine": 339,
+                    "startLine": 341,
                     "startColumn": 4,
-                    "startOffset": 39069,
-                    "endLine": 342,
+                    "startOffset": 39182,
+                    "endLine": 344,
                     "endColumn": 12,
-                    "endOffset": 39294
+                    "endOffset": 39407
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4879,12 +4917,12 @@
             },
             {
                 "to": {
-                    "startLine": 343,
+                    "startLine": 345,
                     "startColumn": 4,
-                    "startOffset": 39299,
-                    "endLine": 346,
+                    "startOffset": 39412,
+                    "endLine": 348,
                     "endColumn": 12,
-                    "endOffset": 39524
+                    "endOffset": 39637
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4900,12 +4938,12 @@
             },
             {
                 "to": {
-                    "startLine": 347,
+                    "startLine": 349,
                     "startColumn": 4,
-                    "startOffset": 39529,
-                    "endLine": 350,
+                    "startOffset": 39642,
+                    "endLine": 352,
                     "endColumn": 12,
-                    "endOffset": 39754
+                    "endOffset": 39867
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4921,12 +4959,12 @@
             },
             {
                 "to": {
-                    "startLine": 351,
+                    "startLine": 353,
                     "startColumn": 4,
-                    "startOffset": 39759,
-                    "endLine": 354,
+                    "startOffset": 39872,
+                    "endLine": 356,
                     "endColumn": 12,
-                    "endOffset": 39981
+                    "endOffset": 40094
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4942,12 +4980,12 @@
             },
             {
                 "to": {
-                    "startLine": 355,
+                    "startLine": 357,
                     "startColumn": 4,
-                    "startOffset": 39986,
-                    "endLine": 358,
+                    "startOffset": 40099,
+                    "endLine": 360,
                     "endColumn": 12,
-                    "endOffset": 40220
+                    "endOffset": 40333
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4963,12 +5001,12 @@
             },
             {
                 "to": {
-                    "startLine": 359,
+                    "startLine": 361,
                     "startColumn": 4,
-                    "startOffset": 40225,
-                    "endLine": 362,
+                    "startOffset": 40338,
+                    "endLine": 364,
                     "endColumn": 12,
-                    "endOffset": 40446
+                    "endOffset": 40559
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4984,12 +5022,12 @@
             },
             {
                 "to": {
-                    "startLine": 363,
+                    "startLine": 365,
                     "startColumn": 4,
-                    "startOffset": 40451,
-                    "endLine": 366,
+                    "startOffset": 40564,
+                    "endLine": 368,
                     "endColumn": 12,
-                    "endOffset": 40691
+                    "endOffset": 40804
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5005,12 +5043,12 @@
             },
             {
                 "to": {
-                    "startLine": 367,
+                    "startLine": 369,
                     "startColumn": 4,
-                    "startOffset": 40696,
-                    "endLine": 368,
+                    "startOffset": 40809,
+                    "endLine": 370,
                     "endColumn": 12,
-                    "endOffset": 40821
+                    "endOffset": 40934
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5026,12 +5064,12 @@
             },
             {
                 "to": {
-                    "startLine": 369,
+                    "startLine": 371,
                     "startColumn": 4,
-                    "startOffset": 40826,
-                    "endLine": 370,
+                    "startOffset": 40939,
+                    "endLine": 372,
                     "endColumn": 12,
-                    "endOffset": 40951
+                    "endOffset": 41064
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5047,12 +5085,12 @@
             },
             {
                 "to": {
-                    "startLine": 371,
+                    "startLine": 373,
                     "startColumn": 4,
-                    "startOffset": 40956,
-                    "endLine": 374,
+                    "startOffset": 41069,
+                    "endLine": 376,
                     "endColumn": 12,
-                    "endOffset": 41181
+                    "endOffset": 41294
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5068,12 +5106,12 @@
             },
             {
                 "to": {
-                    "startLine": 375,
+                    "startLine": 377,
                     "startColumn": 4,
-                    "startOffset": 41186,
-                    "endLine": 378,
+                    "startOffset": 41299,
+                    "endLine": 380,
                     "endColumn": 12,
-                    "endOffset": 41429
+                    "endOffset": 41542
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5089,12 +5127,12 @@
             },
             {
                 "to": {
-                    "startLine": 379,
+                    "startLine": 381,
                     "startColumn": 4,
-                    "startOffset": 41434,
-                    "endLine": 382,
+                    "startOffset": 41547,
+                    "endLine": 384,
                     "endColumn": 12,
-                    "endOffset": 41648
+                    "endOffset": 41761
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5110,12 +5148,12 @@
             },
             {
                 "to": {
-                    "startLine": 383,
+                    "startLine": 385,
                     "startColumn": 4,
-                    "startOffset": 41653,
-                    "endLine": 387,
+                    "startOffset": 41766,
+                    "endLine": 389,
                     "endColumn": 12,
-                    "endOffset": 41931
+                    "endOffset": 42044
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5131,12 +5169,12 @@
             },
             {
                 "to": {
-                    "startLine": 388,
+                    "startLine": 390,
                     "startColumn": 4,
-                    "startOffset": 41936,
-                    "endLine": 391,
+                    "startOffset": 42049,
+                    "endLine": 393,
                     "endColumn": 12,
-                    "endOffset": 42139
+                    "endOffset": 42252
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5152,12 +5190,12 @@
             },
             {
                 "to": {
-                    "startLine": 392,
+                    "startLine": 394,
                     "startColumn": 4,
-                    "startOffset": 42144,
-                    "endLine": 394,
+                    "startOffset": 42257,
+                    "endLine": 396,
                     "endColumn": 12,
-                    "endOffset": 42270
+                    "endOffset": 42383
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5173,12 +5211,12 @@
             },
             {
                 "to": {
-                    "startLine": 395,
+                    "startLine": 397,
                     "startColumn": 4,
-                    "startOffset": 42275,
-                    "endLine": 398,
+                    "startOffset": 42388,
+                    "endLine": 400,
                     "endColumn": 12,
-                    "endOffset": 42497
+                    "endOffset": 42610
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5194,12 +5232,12 @@
             },
             {
                 "to": {
-                    "startLine": 399,
+                    "startLine": 401,
                     "startColumn": 4,
-                    "startOffset": 42502,
-                    "endLine": 402,
+                    "startOffset": 42615,
+                    "endLine": 404,
                     "endColumn": 12,
-                    "endOffset": 42743
+                    "endOffset": 42856
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5215,12 +5253,12 @@
             },
             {
                 "to": {
-                    "startLine": 403,
+                    "startLine": 405,
                     "startColumn": 4,
-                    "startOffset": 42748,
-                    "endLine": 406,
+                    "startOffset": 42861,
+                    "endLine": 408,
                     "endColumn": 12,
-                    "endOffset": 42968
+                    "endOffset": 43081
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5236,12 +5274,12 @@
             },
             {
                 "to": {
-                    "startLine": 407,
+                    "startLine": 409,
                     "startColumn": 4,
-                    "startOffset": 42973,
-                    "endLine": 410,
+                    "startOffset": 43086,
+                    "endLine": 412,
                     "endColumn": 12,
-                    "endOffset": 43215
+                    "endOffset": 43328
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5257,12 +5295,12 @@
             },
             {
                 "to": {
-                    "startLine": 411,
+                    "startLine": 413,
                     "startColumn": 4,
-                    "startOffset": 43220,
-                    "endLine": 414,
+                    "startOffset": 43333,
+                    "endLine": 416,
                     "endColumn": 12,
-                    "endOffset": 43436
+                    "endOffset": 43549
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5278,12 +5316,12 @@
             },
             {
                 "to": {
-                    "startLine": 415,
+                    "startLine": 417,
                     "startColumn": 4,
-                    "startOffset": 43441,
-                    "endLine": 418,
+                    "startOffset": 43554,
+                    "endLine": 420,
                     "endColumn": 12,
-                    "endOffset": 43681
+                    "endOffset": 43794
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5299,12 +5337,12 @@
             },
             {
                 "to": {
-                    "startLine": 419,
+                    "startLine": 421,
                     "startColumn": 4,
-                    "startOffset": 43686,
-                    "endLine": 422,
+                    "startOffset": 43799,
+                    "endLine": 424,
                     "endColumn": 12,
-                    "endOffset": 43955
+                    "endOffset": 44068
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5320,12 +5358,12 @@
             },
             {
                 "to": {
-                    "startLine": 423,
+                    "startLine": 425,
                     "startColumn": 4,
-                    "startOffset": 43960,
-                    "endLine": 426,
+                    "startOffset": 44073,
+                    "endLine": 428,
                     "endColumn": 12,
-                    "endOffset": 44256
+                    "endOffset": 44369
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5341,12 +5379,12 @@
             },
             {
                 "to": {
-                    "startLine": 427,
+                    "startLine": 429,
                     "startColumn": 4,
-                    "startOffset": 44261,
-                    "endLine": 430,
+                    "startOffset": 44374,
+                    "endLine": 432,
                     "endColumn": 12,
-                    "endOffset": 44580
+                    "endOffset": 44693
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5362,12 +5400,12 @@
             },
             {
                 "to": {
-                    "startLine": 431,
+                    "startLine": 433,
                     "startColumn": 4,
-                    "startOffset": 44585,
-                    "endLine": 434,
+                    "startOffset": 44698,
+                    "endLine": 436,
                     "endColumn": 12,
-                    "endOffset": 44871
+                    "endOffset": 44984
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5383,12 +5421,12 @@
             },
             {
                 "to": {
-                    "startLine": 435,
+                    "startLine": 437,
                     "startColumn": 4,
-                    "startOffset": 44876,
-                    "endLine": 438,
+                    "startOffset": 44989,
+                    "endLine": 440,
                     "endColumn": 12,
-                    "endOffset": 45185
+                    "endOffset": 45298
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5404,11 +5442,11 @@
             },
             {
                 "to": {
-                    "startLine": 439,
+                    "startLine": 441,
                     "startColumn": 4,
-                    "startOffset": 45190,
+                    "startOffset": 45303,
                     "endColumn": 136,
-                    "endOffset": 45322
+                    "endOffset": 45435
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5423,11 +5461,11 @@
             },
             {
                 "to": {
-                    "startLine": 440,
+                    "startLine": 442,
                     "startColumn": 4,
-                    "startOffset": 45327,
+                    "startOffset": 45440,
                     "endColumn": 130,
-                    "endOffset": 45453
+                    "endOffset": 45566
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5442,11 +5480,11 @@
             },
             {
                 "to": {
-                    "startLine": 441,
+                    "startLine": 443,
                     "startColumn": 4,
-                    "startOffset": 45458,
+                    "startOffset": 45571,
                     "endColumn": 104,
-                    "endOffset": 45558
+                    "endOffset": 45671
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5461,12 +5499,12 @@
             },
             {
                 "to": {
-                    "startLine": 442,
+                    "startLine": 444,
                     "startColumn": 4,
-                    "startOffset": 45563,
-                    "endLine": 444,
+                    "startOffset": 45676,
+                    "endLine": 446,
                     "endColumn": 12,
-                    "endOffset": 45762
+                    "endOffset": 45875
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5482,12 +5520,12 @@
             },
             {
                 "to": {
-                    "startLine": 445,
+                    "startLine": 447,
                     "startColumn": 4,
-                    "startOffset": 45767,
-                    "endLine": 447,
+                    "startOffset": 45880,
+                    "endLine": 449,
                     "endColumn": 12,
-                    "endOffset": 45970
+                    "endOffset": 46083
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5503,12 +5541,12 @@
             },
             {
                 "to": {
-                    "startLine": 448,
+                    "startLine": 450,
                     "startColumn": 4,
-                    "startOffset": 45975,
-                    "endLine": 449,
+                    "startOffset": 46088,
+                    "endLine": 451,
                     "endColumn": 12,
-                    "endOffset": 46094
+                    "endOffset": 46207
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5524,12 +5562,12 @@
             },
             {
                 "to": {
-                    "startLine": 450,
+                    "startLine": 452,
                     "startColumn": 4,
-                    "startOffset": 46099,
-                    "endLine": 451,
+                    "startOffset": 46212,
+                    "endLine": 453,
                     "endColumn": 12,
-                    "endOffset": 46218
+                    "endOffset": 46331
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5545,11 +5583,11 @@
             },
             {
                 "to": {
-                    "startLine": 452,
+                    "startLine": 454,
                     "startColumn": 4,
-                    "startOffset": 46223,
+                    "startOffset": 46336,
                     "endColumn": 104,
-                    "endOffset": 46323
+                    "endOffset": 46436
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5564,11 +5602,11 @@
             },
             {
                 "to": {
-                    "startLine": 453,
+                    "startLine": 455,
                     "startColumn": 4,
-                    "startOffset": 46328,
+                    "startOffset": 46441,
                     "endColumn": 116,
-                    "endOffset": 46440
+                    "endOffset": 46553
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5583,12 +5621,12 @@
             },
             {
                 "to": {
-                    "startLine": 454,
+                    "startLine": 456,
                     "startColumn": 4,
-                    "startOffset": 46445,
-                    "endLine": 456,
+                    "startOffset": 46558,
+                    "endLine": 458,
                     "endColumn": 12,
-                    "endOffset": 46654
+                    "endOffset": 46767
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5604,12 +5642,12 @@
             },
             {
                 "to": {
-                    "startLine": 457,
+                    "startLine": 459,
                     "startColumn": 4,
-                    "startOffset": 46659,
-                    "endLine": 458,
+                    "startOffset": 46772,
+                    "endLine": 460,
                     "endColumn": 12,
-                    "endOffset": 46800
+                    "endOffset": 46913
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5625,12 +5663,12 @@
             },
             {
                 "to": {
-                    "startLine": 459,
+                    "startLine": 461,
                     "startColumn": 4,
-                    "startOffset": 46805,
-                    "endLine": 460,
+                    "startOffset": 46918,
+                    "endLine": 462,
                     "endColumn": 12,
-                    "endOffset": 46940
+                    "endOffset": 47053
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5646,12 +5684,12 @@
             },
             {
                 "to": {
-                    "startLine": 461,
+                    "startLine": 463,
                     "startColumn": 4,
-                    "startOffset": 46945,
-                    "endLine": 462,
+                    "startOffset": 47058,
+                    "endLine": 464,
                     "endColumn": 12,
-                    "endOffset": 47026
+                    "endOffset": 47139
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5667,12 +5705,12 @@
             },
             {
                 "to": {
-                    "startLine": 463,
+                    "startLine": 465,
                     "startColumn": 4,
-                    "startOffset": 47031,
-                    "endLine": 467,
+                    "startOffset": 47144,
+                    "endLine": 469,
                     "endColumn": 12,
-                    "endOffset": 47374
+                    "endOffset": 47487
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5688,11 +5726,11 @@
             },
             {
                 "to": {
-                    "startLine": 468,
+                    "startLine": 470,
                     "startColumn": 4,
-                    "startOffset": 47379,
+                    "startOffset": 47492,
                     "endColumn": 87,
-                    "endOffset": 47462
+                    "endOffset": 47575
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5707,12 +5745,12 @@
             },
             {
                 "to": {
-                    "startLine": 469,
+                    "startLine": 471,
                     "startColumn": 4,
-                    "startOffset": 47467,
-                    "endLine": 472,
+                    "startOffset": 47580,
+                    "endLine": 474,
                     "endColumn": 12,
-                    "endOffset": 47692
+                    "endOffset": 47805
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5728,12 +5766,12 @@
             },
             {
                 "to": {
-                    "startLine": 473,
+                    "startLine": 475,
                     "startColumn": 4,
-                    "startOffset": 47697,
-                    "endLine": 478,
+                    "startOffset": 47810,
+                    "endLine": 480,
                     "endColumn": 12,
-                    "endOffset": 48110
+                    "endOffset": 48223
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5749,12 +5787,12 @@
             },
             {
                 "to": {
-                    "startLine": 479,
+                    "startLine": 481,
                     "startColumn": 4,
-                    "startOffset": 48115,
-                    "endLine": 482,
+                    "startOffset": 48228,
+                    "endLine": 484,
                     "endColumn": 12,
-                    "endOffset": 48343
+                    "endOffset": 48456
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5770,11 +5808,11 @@
             },
             {
                 "to": {
-                    "startLine": 483,
+                    "startLine": 485,
                     "startColumn": 4,
-                    "startOffset": 48348,
+                    "startOffset": 48461,
                     "endColumn": 81,
-                    "endOffset": 48425
+                    "endOffset": 48538
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5789,12 +5827,12 @@
             },
             {
                 "to": {
-                    "startLine": 484,
+                    "startLine": 486,
                     "startColumn": 4,
-                    "startOffset": 48430,
-                    "endLine": 485,
+                    "startOffset": 48543,
+                    "endLine": 487,
                     "endColumn": 12,
-                    "endOffset": 48523
+                    "endOffset": 48636
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5810,12 +5848,12 @@
             },
             {
                 "to": {
-                    "startLine": 486,
+                    "startLine": 488,
                     "startColumn": 4,
-                    "startOffset": 48528,
-                    "endLine": 496,
+                    "startOffset": 48641,
+                    "endLine": 498,
                     "endColumn": 12,
-                    "endOffset": 49140
+                    "endOffset": 49253
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5831,11 +5869,11 @@
             },
             {
                 "to": {
-                    "startLine": 497,
+                    "startLine": 499,
                     "startColumn": 4,
-                    "startOffset": 49145,
+                    "startOffset": 49258,
                     "endColumn": 99,
-                    "endOffset": 49240
+                    "endOffset": 49353
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5850,12 +5888,12 @@
             },
             {
                 "to": {
-                    "startLine": 498,
+                    "startLine": 500,
                     "startColumn": 4,
-                    "startOffset": 49245,
-                    "endLine": 501,
+                    "startOffset": 49358,
+                    "endLine": 503,
                     "endColumn": 12,
-                    "endOffset": 49476
+                    "endOffset": 49589
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5871,12 +5909,12 @@
             },
             {
                 "to": {
-                    "startLine": 502,
+                    "startLine": 504,
                     "startColumn": 4,
-                    "startOffset": 49481,
-                    "endLine": 507,
+                    "startOffset": 49594,
+                    "endLine": 509,
                     "endColumn": 12,
-                    "endOffset": 49900
+                    "endOffset": 50013
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5892,12 +5930,12 @@
             },
             {
                 "to": {
-                    "startLine": 508,
+                    "startLine": 510,
                     "startColumn": 4,
-                    "startOffset": 49905,
-                    "endLine": 511,
+                    "startOffset": 50018,
+                    "endLine": 513,
                     "endColumn": 12,
-                    "endOffset": 50139
+                    "endOffset": 50252
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5913,11 +5951,11 @@
             },
             {
                 "to": {
-                    "startLine": 512,
+                    "startLine": 514,
                     "startColumn": 4,
-                    "startOffset": 50144,
+                    "startOffset": 50257,
                     "endColumn": 93,
-                    "endOffset": 50233
+                    "endOffset": 50346
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5932,11 +5970,11 @@
             },
             {
                 "to": {
-                    "startLine": 513,
+                    "startLine": 515,
                     "startColumn": 4,
-                    "startOffset": 50238,
+                    "startOffset": 50351,
                     "endColumn": 88,
-                    "endOffset": 50322
+                    "endOffset": 50435
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5951,12 +5989,12 @@
             },
             {
                 "to": {
-                    "startLine": 514,
+                    "startLine": 516,
                     "startColumn": 4,
-                    "startOffset": 50327,
-                    "endLine": 517,
+                    "startOffset": 50440,
+                    "endLine": 519,
                     "endColumn": 12,
-                    "endOffset": 50559
+                    "endOffset": 50672
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5972,12 +6010,12 @@
             },
             {
                 "to": {
-                    "startLine": 518,
+                    "startLine": 520,
                     "startColumn": 4,
-                    "startOffset": 50564,
-                    "endLine": 543,
+                    "startOffset": 50677,
+                    "endLine": 545,
                     "endColumn": 12,
-                    "endOffset": 52510
+                    "endOffset": 52623
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5993,12 +6031,12 @@
             },
             {
                 "to": {
-                    "startLine": 544,
+                    "startLine": 546,
                     "startColumn": 4,
-                    "startOffset": 52515,
-                    "endLine": 547,
+                    "startOffset": 52628,
+                    "endLine": 549,
                     "endColumn": 12,
-                    "endOffset": 52752
+                    "endOffset": 52865
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6014,12 +6052,12 @@
             },
             {
                 "to": {
-                    "startLine": 548,
+                    "startLine": 550,
                     "startColumn": 4,
-                    "startOffset": 52757,
-                    "endLine": 574,
+                    "startOffset": 52870,
+                    "endLine": 576,
                     "endColumn": 12,
-                    "endOffset": 54834
+                    "endOffset": 54947
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6035,12 +6073,12 @@
             },
             {
                 "to": {
-                    "startLine": 575,
+                    "startLine": 577,
                     "startColumn": 4,
-                    "startOffset": 54839,
-                    "endLine": 727,
+                    "startOffset": 54952,
+                    "endLine": 729,
                     "endColumn": 12,
-                    "endOffset": 64516
+                    "endOffset": 64629
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6056,12 +6094,12 @@
             },
             {
                 "to": {
-                    "startLine": 728,
+                    "startLine": 730,
                     "startColumn": 4,
-                    "startOffset": 64521,
-                    "endLine": 749,
+                    "startOffset": 64634,
+                    "endLine": 751,
                     "endColumn": 12,
-                    "endOffset": 65783
+                    "endOffset": 65896
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6077,12 +6115,12 @@
             },
             {
                 "to": {
-                    "startLine": 750,
+                    "startLine": 752,
                     "startColumn": 4,
-                    "startOffset": 65788,
-                    "endLine": 902,
+                    "startOffset": 65901,
+                    "endLine": 904,
                     "endColumn": 12,
-                    "endOffset": 75575
+                    "endOffset": 75688
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6098,12 +6136,12 @@
             },
             {
                 "to": {
-                    "startLine": 903,
+                    "startLine": 905,
                     "startColumn": 4,
-                    "startOffset": 75580,
-                    "endLine": 924,
+                    "startOffset": 75693,
+                    "endLine": 926,
                     "endColumn": 12,
-                    "endOffset": 76856
+                    "endOffset": 76969
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6119,12 +6157,12 @@
             },
             {
                 "to": {
-                    "startLine": 925,
+                    "startLine": 927,
                     "startColumn": 4,
-                    "startOffset": 76861,
-                    "endLine": 931,
+                    "startOffset": 76974,
+                    "endLine": 933,
                     "endColumn": 12,
-                    "endOffset": 77392
+                    "endOffset": 77505
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6140,12 +6178,12 @@
             },
             {
                 "to": {
-                    "startLine": 932,
+                    "startLine": 934,
                     "startColumn": 4,
-                    "startOffset": 77397,
-                    "endLine": 936,
+                    "startOffset": 77510,
+                    "endLine": 938,
                     "endColumn": 12,
-                    "endOffset": 77722
+                    "endOffset": 77835
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6161,12 +6199,12 @@
             },
             {
                 "to": {
-                    "startLine": 937,
+                    "startLine": 939,
                     "startColumn": 4,
-                    "startOffset": 77727,
-                    "endLine": 957,
+                    "startOffset": 77840,
+                    "endLine": 959,
                     "endColumn": 12,
-                    "endOffset": 78845
+                    "endOffset": 78958
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6182,12 +6220,12 @@
             },
             {
                 "to": {
-                    "startLine": 958,
+                    "startLine": 960,
                     "startColumn": 4,
-                    "startOffset": 78850,
-                    "endLine": 962,
+                    "startOffset": 78963,
+                    "endLine": 964,
                     "endColumn": 12,
-                    "endOffset": 79101
+                    "endOffset": 79214
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6203,12 +6241,12 @@
             },
             {
                 "to": {
-                    "startLine": 963,
+                    "startLine": 965,
                     "startColumn": 4,
-                    "startOffset": 79106,
-                    "endLine": 967,
+                    "startOffset": 79219,
+                    "endLine": 969,
                     "endColumn": 12,
-                    "endOffset": 79337
+                    "endOffset": 79450
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6224,12 +6262,12 @@
             },
             {
                 "to": {
-                    "startLine": 968,
+                    "startLine": 970,
                     "startColumn": 4,
-                    "startOffset": 79342,
-                    "endLine": 977,
+                    "startOffset": 79455,
+                    "endLine": 979,
                     "endColumn": 12,
-                    "endOffset": 79884
+                    "endOffset": 79997
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6245,12 +6283,12 @@
             },
             {
                 "to": {
-                    "startLine": 978,
+                    "startLine": 980,
                     "startColumn": 4,
-                    "startOffset": 79889,
-                    "endLine": 986,
+                    "startOffset": 80002,
+                    "endLine": 988,
                     "endColumn": 12,
-                    "endOffset": 80378
+                    "endOffset": 80491
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6266,12 +6304,12 @@
             },
             {
                 "to": {
-                    "startLine": 987,
+                    "startLine": 989,
                     "startColumn": 4,
-                    "startOffset": 80383,
-                    "endLine": 995,
+                    "startOffset": 80496,
+                    "endLine": 997,
                     "endColumn": 12,
-                    "endOffset": 80983
+                    "endOffset": 81096
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6287,12 +6325,12 @@
             },
             {
                 "to": {
-                    "startLine": 996,
+                    "startLine": 998,
                     "startColumn": 4,
-                    "startOffset": 80988,
-                    "endLine": 998,
+                    "startOffset": 81101,
+                    "endLine": 1000,
                     "endColumn": 12,
-                    "endOffset": 81131
+                    "endOffset": 81244
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6308,12 +6346,12 @@
             },
             {
                 "to": {
-                    "startLine": 999,
+                    "startLine": 1001,
                     "startColumn": 4,
-                    "startOffset": 81136,
-                    "endLine": 1005,
+                    "startOffset": 81249,
+                    "endLine": 1007,
                     "endColumn": 12,
-                    "endOffset": 81719
+                    "endOffset": 81832
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6329,12 +6367,12 @@
             },
             {
                 "to": {
-                    "startLine": 1006,
+                    "startLine": 1008,
                     "startColumn": 4,
-                    "startOffset": 81724,
-                    "endLine": 1013,
+                    "startOffset": 81837,
+                    "endLine": 1015,
                     "endColumn": 12,
-                    "endOffset": 82283
+                    "endOffset": 82396
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6350,12 +6388,12 @@
             },
             {
                 "to": {
-                    "startLine": 1014,
+                    "startLine": 1016,
                     "startColumn": 4,
-                    "startOffset": 82288,
-                    "endLine": 1020,
+                    "startOffset": 82401,
+                    "endLine": 1022,
                     "endColumn": 12,
-                    "endOffset": 82658
+                    "endOffset": 82771
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6371,11 +6409,11 @@
             },
             {
                 "to": {
-                    "startLine": 1021,
+                    "startLine": 1023,
                     "startColumn": 4,
-                    "startOffset": 82663,
+                    "startOffset": 82776,
                     "endColumn": 117,
-                    "endOffset": 82776
+                    "endOffset": 82889
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6390,12 +6428,12 @@
             },
             {
                 "to": {
-                    "startLine": 1022,
+                    "startLine": 1024,
                     "startColumn": 4,
-                    "startOffset": 82781,
-                    "endLine": 1030,
+                    "startOffset": 82894,
+                    "endLine": 1032,
                     "endColumn": 12,
-                    "endOffset": 83314
+                    "endOffset": 83427
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6411,12 +6449,12 @@
             },
             {
                 "to": {
-                    "startLine": 1031,
+                    "startLine": 1033,
                     "startColumn": 4,
-                    "startOffset": 83319,
-                    "endLine": 1033,
+                    "startOffset": 83432,
+                    "endLine": 1035,
                     "endColumn": 12,
-                    "endOffset": 83471
+                    "endOffset": 83584
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6432,12 +6470,12 @@
             },
             {
                 "to": {
-                    "startLine": 1034,
+                    "startLine": 1036,
                     "startColumn": 4,
-                    "startOffset": 83476,
-                    "endLine": 1036,
+                    "startOffset": 83589,
+                    "endLine": 1038,
                     "endColumn": 12,
-                    "endOffset": 83615
+                    "endOffset": 83728
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6453,12 +6491,12 @@
             },
             {
                 "to": {
-                    "startLine": 1037,
+                    "startLine": 1039,
                     "startColumn": 4,
-                    "startOffset": 83620,
-                    "endLine": 1041,
+                    "startOffset": 83733,
+                    "endLine": 1043,
                     "endColumn": 12,
-                    "endOffset": 83935
+                    "endOffset": 84048
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6474,12 +6512,12 @@
             },
             {
                 "to": {
-                    "startLine": 1042,
+                    "startLine": 1044,
                     "startColumn": 4,
-                    "startOffset": 83940,
-                    "endLine": 1045,
+                    "startOffset": 84053,
+                    "endLine": 1047,
                     "endColumn": 12,
-                    "endOffset": 84191
+                    "endOffset": 84304
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6495,12 +6533,12 @@
             },
             {
                 "to": {
-                    "startLine": 1046,
+                    "startLine": 1048,
                     "startColumn": 4,
-                    "startOffset": 84196,
-                    "endLine": 1049,
+                    "startOffset": 84309,
+                    "endLine": 1051,
                     "endColumn": 12,
-                    "endOffset": 84361
+                    "endOffset": 84474
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6516,12 +6554,12 @@
             },
             {
                 "to": {
-                    "startLine": 1050,
+                    "startLine": 1052,
                     "startColumn": 4,
-                    "startOffset": 84366,
-                    "endLine": 1052,
+                    "startOffset": 84479,
+                    "endLine": 1054,
                     "endColumn": 12,
-                    "endOffset": 84502
+                    "endOffset": 84615
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6537,11 +6575,11 @@
             },
             {
                 "to": {
-                    "startLine": 1053,
+                    "startLine": 1055,
                     "startColumn": 4,
-                    "startOffset": 84507,
+                    "startOffset": 84620,
                     "endColumn": 63,
-                    "endOffset": 84566
+                    "endOffset": 84679
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6556,12 +6594,12 @@
             },
             {
                 "to": {
-                    "startLine": 1054,
+                    "startLine": 1056,
                     "startColumn": 4,
-                    "startOffset": 84571,
-                    "endLine": 1057,
+                    "startOffset": 84684,
+                    "endLine": 1059,
                     "endColumn": 12,
-                    "endOffset": 84848
+                    "endOffset": 84961
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6577,12 +6615,12 @@
             },
             {
                 "to": {
-                    "startLine": 1058,
+                    "startLine": 1060,
                     "startColumn": 4,
-                    "startOffset": 84853,
-                    "endLine": 1061,
+                    "startOffset": 84966,
+                    "endLine": 1063,
                     "endColumn": 12,
-                    "endOffset": 85134
+                    "endOffset": 85247
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6598,12 +6636,12 @@
             },
             {
                 "to": {
-                    "startLine": 1062,
+                    "startLine": 1064,
                     "startColumn": 4,
-                    "startOffset": 85139,
-                    "endLine": 1071,
+                    "startOffset": 85252,
+                    "endLine": 1073,
                     "endColumn": 12,
-                    "endOffset": 85810
+                    "endOffset": 85923
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6619,12 +6657,12 @@
             },
             {
                 "to": {
-                    "startLine": 1072,
+                    "startLine": 1074,
                     "startColumn": 4,
-                    "startOffset": 85815,
-                    "endLine": 1076,
+                    "startOffset": 85928,
+                    "endLine": 1078,
                     "endColumn": 12,
-                    "endOffset": 86074
+                    "endOffset": 86187
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6640,12 +6678,12 @@
             },
             {
                 "to": {
-                    "startLine": 1077,
+                    "startLine": 1079,
                     "startColumn": 4,
-                    "startOffset": 86079,
-                    "endLine": 1083,
+                    "startOffset": 86192,
+                    "endLine": 1085,
                     "endColumn": 12,
-                    "endOffset": 86412
+                    "endOffset": 86525
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6661,12 +6699,12 @@
             },
             {
                 "to": {
-                    "startLine": 1084,
+                    "startLine": 1086,
                     "startColumn": 4,
-                    "startOffset": 86417,
-                    "endLine": 1089,
+                    "startOffset": 86530,
+                    "endLine": 1091,
                     "endColumn": 12,
-                    "endOffset": 86765
+                    "endOffset": 86878
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6682,11 +6720,11 @@
             },
             {
                 "to": {
-                    "startLine": 1090,
+                    "startLine": 1092,
                     "startColumn": 4,
-                    "startOffset": 86770,
+                    "startOffset": 86883,
                     "endColumn": 93,
-                    "endOffset": 86859
+                    "endOffset": 86972
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6701,12 +6739,12 @@
             },
             {
                 "to": {
-                    "startLine": 1091,
+                    "startLine": 1093,
                     "startColumn": 4,
-                    "startOffset": 86864,
-                    "endLine": 1093,
+                    "startOffset": 86977,
+                    "endLine": 1095,
                     "endColumn": 12,
-                    "endOffset": 87045
+                    "endOffset": 87158
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6722,12 +6760,12 @@
             },
             {
                 "to": {
-                    "startLine": 1094,
+                    "startLine": 1096,
                     "startColumn": 4,
-                    "startOffset": 87050,
-                    "endLine": 1097,
+                    "startOffset": 87163,
+                    "endLine": 1099,
                     "endColumn": 12,
-                    "endOffset": 87351
+                    "endOffset": 87464
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6743,12 +6781,12 @@
             },
             {
                 "to": {
-                    "startLine": 1098,
+                    "startLine": 1100,
                     "startColumn": 4,
-                    "startOffset": 87356,
-                    "endLine": 1102,
+                    "startOffset": 87469,
+                    "endLine": 1104,
                     "endColumn": 12,
-                    "endOffset": 87613
+                    "endOffset": 87726
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6764,12 +6802,12 @@
             },
             {
                 "to": {
-                    "startLine": 1103,
+                    "startLine": 1105,
                     "startColumn": 4,
-                    "startOffset": 87618,
-                    "endLine": 1104,
+                    "startOffset": 87731,
+                    "endLine": 1106,
                     "endColumn": 12,
-                    "endOffset": 87738
+                    "endOffset": 87851
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6785,12 +6823,12 @@
             },
             {
                 "to": {
-                    "startLine": 1105,
+                    "startLine": 1107,
                     "startColumn": 4,
-                    "startOffset": 87743,
-                    "endLine": 1106,
+                    "startOffset": 87856,
+                    "endLine": 1108,
                     "endColumn": 12,
-                    "endOffset": 87865
+                    "endOffset": 87978
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6806,12 +6844,12 @@
             },
             {
                 "to": {
-                    "startLine": 1107,
+                    "startLine": 1109,
                     "startColumn": 4,
-                    "startOffset": 87870,
-                    "endLine": 1109,
+                    "startOffset": 87983,
+                    "endLine": 1111,
                     "endColumn": 12,
-                    "endOffset": 88104
+                    "endOffset": 88217
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6827,12 +6865,12 @@
             },
             {
                 "to": {
-                    "startLine": 1110,
+                    "startLine": 1112,
                     "startColumn": 4,
-                    "startOffset": 88109,
-                    "endLine": 1112,
+                    "startOffset": 88222,
+                    "endLine": 1114,
                     "endColumn": 12,
-                    "endOffset": 88315
+                    "endOffset": 88428
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6848,12 +6886,12 @@
             },
             {
                 "to": {
-                    "startLine": 1113,
+                    "startLine": 1115,
                     "startColumn": 4,
-                    "startOffset": 88320,
-                    "endLine": 1114,
+                    "startOffset": 88433,
+                    "endLine": 1116,
                     "endColumn": 12,
-                    "endOffset": 88434
+                    "endOffset": 88547
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6869,12 +6907,12 @@
             },
             {
                 "to": {
-                    "startLine": 1115,
+                    "startLine": 1117,
                     "startColumn": 4,
-                    "startOffset": 88439,
-                    "endLine": 1118,
+                    "startOffset": 88552,
+                    "endLine": 1120,
                     "endColumn": 12,
-                    "endOffset": 88627
+                    "endOffset": 88740
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6890,12 +6928,12 @@
             },
             {
                 "to": {
-                    "startLine": 1119,
+                    "startLine": 1121,
                     "startColumn": 4,
-                    "startOffset": 88632,
-                    "endLine": 1125,
+                    "startOffset": 88745,
+                    "endLine": 1127,
                     "endColumn": 12,
-                    "endOffset": 89082
+                    "endOffset": 89195
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6911,12 +6949,12 @@
             },
             {
                 "to": {
-                    "startLine": 1126,
+                    "startLine": 1128,
                     "startColumn": 4,
-                    "startOffset": 89087,
-                    "endLine": 1128,
+                    "startOffset": 89200,
+                    "endLine": 1130,
                     "endColumn": 12,
-                    "endOffset": 89263
+                    "endOffset": 89376
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6932,12 +6970,12 @@
             },
             {
                 "to": {
-                    "startLine": 1129,
+                    "startLine": 1131,
                     "startColumn": 4,
-                    "startOffset": 89268,
-                    "endLine": 1131,
+                    "startOffset": 89381,
+                    "endLine": 1133,
                     "endColumn": 12,
-                    "endOffset": 89385
+                    "endOffset": 89498
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6953,12 +6991,12 @@
             },
             {
                 "to": {
-                    "startLine": 1132,
+                    "startLine": 1134,
                     "startColumn": 4,
-                    "startOffset": 89390,
-                    "endLine": 1135,
+                    "startOffset": 89503,
+                    "endLine": 1137,
                     "endColumn": 12,
-                    "endOffset": 89644
+                    "endOffset": 89757
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6974,12 +7012,12 @@
             },
             {
                 "to": {
-                    "startLine": 1136,
+                    "startLine": 1138,
                     "startColumn": 4,
-                    "startOffset": 89649,
-                    "endLine": 1137,
+                    "startOffset": 89762,
+                    "endLine": 1139,
                     "endColumn": 12,
-                    "endOffset": 89757
+                    "endOffset": 89870
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6995,12 +7033,12 @@
             },
             {
                 "to": {
-                    "startLine": 1138,
+                    "startLine": 1140,
                     "startColumn": 4,
-                    "startOffset": 89762,
-                    "endLine": 1141,
+                    "startOffset": 89875,
+                    "endLine": 1143,
                     "endColumn": 12,
-                    "endOffset": 89944
+                    "endOffset": 90057
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7016,12 +7054,12 @@
             },
             {
                 "to": {
-                    "startLine": 1142,
+                    "startLine": 1144,
                     "startColumn": 4,
-                    "startOffset": 89949,
-                    "endLine": 1143,
+                    "startOffset": 90062,
+                    "endLine": 1145,
                     "endColumn": 12,
-                    "endOffset": 90046
+                    "endOffset": 90159
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7037,12 +7075,12 @@
             },
             {
                 "to": {
-                    "startLine": 1144,
+                    "startLine": 1146,
                     "startColumn": 4,
-                    "startOffset": 90051,
-                    "endLine": 1149,
+                    "startOffset": 90164,
+                    "endLine": 1151,
                     "endColumn": 12,
-                    "endOffset": 90490
+                    "endOffset": 90603
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7058,12 +7096,12 @@
             },
             {
                 "to": {
-                    "startLine": 1150,
+                    "startLine": 1152,
                     "startColumn": 4,
-                    "startOffset": 90495,
-                    "endLine": 1151,
+                    "startOffset": 90608,
+                    "endLine": 1153,
                     "endColumn": 12,
-                    "endOffset": 90614
+                    "endOffset": 90727
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7079,12 +7117,12 @@
             },
             {
                 "to": {
-                    "startLine": 1152,
+                    "startLine": 1154,
                     "startColumn": 4,
-                    "startOffset": 90619,
-                    "endLine": 1155,
+                    "startOffset": 90732,
+                    "endLine": 1157,
                     "endColumn": 12,
-                    "endOffset": 90899
+                    "endOffset": 91012
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7100,12 +7138,12 @@
             },
             {
                 "to": {
-                    "startLine": 1156,
+                    "startLine": 1158,
                     "startColumn": 4,
-                    "startOffset": 90904,
-                    "endLine": 1167,
+                    "startOffset": 91017,
+                    "endLine": 1169,
                     "endColumn": 12,
-                    "endOffset": 91786
+                    "endOffset": 91899
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7121,12 +7159,12 @@
             },
             {
                 "to": {
-                    "startLine": 1168,
+                    "startLine": 1170,
                     "startColumn": 4,
-                    "startOffset": 91791,
-                    "endLine": 1173,
+                    "startOffset": 91904,
+                    "endLine": 1175,
                     "endColumn": 12,
-                    "endOffset": 92080
+                    "endOffset": 92193
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7142,12 +7180,12 @@
             },
             {
                 "to": {
-                    "startLine": 1174,
+                    "startLine": 1176,
                     "startColumn": 4,
-                    "startOffset": 92085,
-                    "endLine": 1182,
+                    "startOffset": 92198,
+                    "endLine": 1184,
                     "endColumn": 12,
-                    "endOffset": 92650
+                    "endOffset": 92763
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7163,12 +7201,12 @@
             },
             {
                 "to": {
-                    "startLine": 1183,
+                    "startLine": 1185,
                     "startColumn": 4,
-                    "startOffset": 92655,
-                    "endLine": 1193,
+                    "startOffset": 92768,
+                    "endLine": 1195,
                     "endColumn": 12,
-                    "endOffset": 93382
+                    "endOffset": 93495
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7184,12 +7222,12 @@
             },
             {
                 "to": {
-                    "startLine": 1194,
+                    "startLine": 1196,
                     "startColumn": 4,
-                    "startOffset": 93387,
-                    "endLine": 1196,
+                    "startOffset": 93500,
+                    "endLine": 1198,
                     "endColumn": 12,
-                    "endOffset": 93554
+                    "endOffset": 93667
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7205,12 +7243,12 @@
             },
             {
                 "to": {
-                    "startLine": 1197,
+                    "startLine": 1199,
                     "startColumn": 4,
-                    "startOffset": 93559,
-                    "endLine": 1201,
+                    "startOffset": 93672,
+                    "endLine": 1203,
                     "endColumn": 12,
-                    "endOffset": 93890
+                    "endOffset": 94003
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7226,12 +7264,12 @@
             },
             {
                 "to": {
-                    "startLine": 1202,
+                    "startLine": 1204,
                     "startColumn": 4,
-                    "startOffset": 93895,
-                    "endLine": 1213,
+                    "startOffset": 94008,
+                    "endLine": 1215,
                     "endColumn": 12,
-                    "endOffset": 94757
+                    "endOffset": 94870
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7247,12 +7285,12 @@
             },
             {
                 "to": {
-                    "startLine": 1214,
+                    "startLine": 1216,
                     "startColumn": 4,
-                    "startOffset": 94762,
-                    "endLine": 1218,
+                    "startOffset": 94875,
+                    "endLine": 1220,
                     "endColumn": 12,
-                    "endOffset": 95035
+                    "endOffset": 95148
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7268,12 +7306,12 @@
             },
             {
                 "to": {
-                    "startLine": 1219,
+                    "startLine": 1221,
                     "startColumn": 4,
-                    "startOffset": 95040,
-                    "endLine": 1256,
+                    "startOffset": 95153,
+                    "endLine": 1258,
                     "endColumn": 12,
-                    "endOffset": 97897
+                    "endOffset": 98010
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7289,12 +7327,12 @@
             },
             {
                 "to": {
-                    "startLine": 1257,
+                    "startLine": 1259,
                     "startColumn": 4,
-                    "startOffset": 97902,
-                    "endLine": 1295,
+                    "startOffset": 98015,
+                    "endLine": 1297,
                     "endColumn": 12,
-                    "endOffset": 100899
+                    "endOffset": 101012
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7310,11 +7348,11 @@
             },
             {
                 "to": {
-                    "startLine": 1296,
+                    "startLine": 1298,
                     "startColumn": 4,
-                    "startOffset": 100904,
+                    "startOffset": 101017,
                     "endColumn": 61,
-                    "endOffset": 100961
+                    "endOffset": 101074
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7329,12 +7367,12 @@
             },
             {
                 "to": {
-                    "startLine": 1297,
+                    "startLine": 1299,
                     "startColumn": 4,
-                    "startOffset": 100966,
-                    "endLine": 1306,
+                    "startOffset": 101079,
+                    "endLine": 1308,
                     "endColumn": 12,
-                    "endOffset": 101591
+                    "endOffset": 101704
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7350,12 +7388,12 @@
             },
             {
                 "to": {
-                    "startLine": 1307,
+                    "startLine": 1309,
                     "startColumn": 4,
-                    "startOffset": 101596,
-                    "endLine": 1315,
+                    "startOffset": 101709,
+                    "endLine": 1317,
                     "endColumn": 12,
-                    "endOffset": 102205
+                    "endOffset": 102318
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7371,11 +7409,11 @@
             },
             {
                 "to": {
-                    "startLine": 1316,
+                    "startLine": 1318,
                     "startColumn": 4,
-                    "startOffset": 102210,
+                    "startOffset": 102323,
                     "endColumn": 85,
-                    "endOffset": 102291
+                    "endOffset": 102404
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7390,12 +7428,12 @@
             },
             {
                 "to": {
-                    "startLine": 1317,
+                    "startLine": 1319,
                     "startColumn": 4,
-                    "startOffset": 102296,
-                    "endLine": 1318,
+                    "startOffset": 102409,
+                    "endLine": 1320,
                     "endColumn": 12,
-                    "endOffset": 102404
+                    "endOffset": 102517
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7411,12 +7449,12 @@
             },
             {
                 "to": {
-                    "startLine": 1319,
+                    "startLine": 1321,
                     "startColumn": 4,
-                    "startOffset": 102409,
-                    "endLine": 1322,
+                    "startOffset": 102522,
+                    "endLine": 1324,
                     "endColumn": 12,
-                    "endOffset": 102633
+                    "endOffset": 102746
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7432,12 +7470,12 @@
             },
             {
                 "to": {
-                    "startLine": 1323,
+                    "startLine": 1325,
                     "startColumn": 4,
-                    "startOffset": 102638,
-                    "endLine": 1325,
+                    "startOffset": 102751,
+                    "endLine": 1327,
                     "endColumn": 12,
-                    "endOffset": 102793
+                    "endOffset": 102906
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7453,12 +7491,12 @@
             },
             {
                 "to": {
-                    "startLine": 1326,
+                    "startLine": 1328,
                     "startColumn": 4,
-                    "startOffset": 102798,
-                    "endLine": 1328,
+                    "startOffset": 102911,
+                    "endLine": 1330,
                     "endColumn": 12,
-                    "endOffset": 102945
+                    "endOffset": 103058
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7474,12 +7512,12 @@
             },
             {
                 "to": {
-                    "startLine": 1329,
+                    "startLine": 1331,
                     "startColumn": 4,
-                    "startOffset": 102950,
-                    "endLine": 1331,
+                    "startOffset": 103063,
+                    "endLine": 1333,
                     "endColumn": 12,
-                    "endOffset": 103116
+                    "endOffset": 103229
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7495,12 +7533,12 @@
             },
             {
                 "to": {
-                    "startLine": 1332,
+                    "startLine": 1334,
                     "startColumn": 4,
-                    "startOffset": 103121,
-                    "endLine": 1334,
+                    "startOffset": 103234,
+                    "endLine": 1336,
                     "endColumn": 12,
-                    "endOffset": 103283
+                    "endOffset": 103396
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7516,12 +7554,12 @@
             },
             {
                 "to": {
-                    "startLine": 1335,
+                    "startLine": 1337,
                     "startColumn": 4,
-                    "startOffset": 103288,
-                    "endLine": 1338,
+                    "startOffset": 103401,
+                    "endLine": 1340,
                     "endColumn": 12,
-                    "endOffset": 103526
+                    "endOffset": 103639
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7537,12 +7575,12 @@
             },
             {
                 "to": {
-                    "startLine": 1339,
+                    "startLine": 1341,
                     "startColumn": 4,
-                    "startOffset": 103531,
-                    "endLine": 1341,
+                    "startOffset": 103644,
+                    "endLine": 1343,
                     "endColumn": 12,
-                    "endOffset": 103696
+                    "endOffset": 103809
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7558,12 +7596,12 @@
             },
             {
                 "to": {
-                    "startLine": 1342,
+                    "startLine": 1344,
                     "startColumn": 4,
-                    "startOffset": 103701,
-                    "endLine": 1344,
+                    "startOffset": 103814,
+                    "endLine": 1346,
                     "endColumn": 12,
-                    "endOffset": 103869
+                    "endOffset": 103982
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7579,12 +7617,12 @@
             },
             {
                 "to": {
-                    "startLine": 1345,
+                    "startLine": 1347,
                     "startColumn": 4,
-                    "startOffset": 103874,
-                    "endLine": 1347,
+                    "startOffset": 103987,
+                    "endLine": 1349,
                     "endColumn": 12,
-                    "endOffset": 104040
+                    "endOffset": 104153
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7600,12 +7638,12 @@
             },
             {
                 "to": {
-                    "startLine": 1348,
+                    "startLine": 1350,
                     "startColumn": 4,
-                    "startOffset": 104045,
-                    "endLine": 1351,
+                    "startOffset": 104158,
+                    "endLine": 1353,
                     "endColumn": 12,
-                    "endOffset": 104314
+                    "endOffset": 104427
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7621,12 +7659,12 @@
             },
             {
                 "to": {
-                    "startLine": 1352,
+                    "startLine": 1354,
                     "startColumn": 4,
-                    "startOffset": 104319,
-                    "endLine": 1354,
+                    "startOffset": 104432,
+                    "endLine": 1356,
                     "endColumn": 12,
-                    "endOffset": 104513
+                    "endOffset": 104626
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7642,12 +7680,12 @@
             },
             {
                 "to": {
-                    "startLine": 1355,
+                    "startLine": 1357,
                     "startColumn": 4,
-                    "startOffset": 104518,
-                    "endLine": 1358,
+                    "startOffset": 104631,
+                    "endLine": 1360,
                     "endColumn": 12,
-                    "endOffset": 104718
+                    "endOffset": 104831
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7663,12 +7701,12 @@
             },
             {
                 "to": {
-                    "startLine": 1359,
+                    "startLine": 1361,
                     "startColumn": 4,
-                    "startOffset": 104723,
-                    "endLine": 1362,
+                    "startOffset": 104836,
+                    "endLine": 1364,
                     "endColumn": 12,
-                    "endOffset": 105048
+                    "endOffset": 105161
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7684,11 +7722,11 @@
             },
             {
                 "to": {
-                    "startLine": 1363,
+                    "startLine": 1365,
                     "startColumn": 4,
-                    "startOffset": 105053,
+                    "startOffset": 105166,
                     "endColumn": 83,
-                    "endOffset": 105132
+                    "endOffset": 105245
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7703,11 +7741,11 @@
             },
             {
                 "to": {
-                    "startLine": 1364,
+                    "startLine": 1366,
                     "startColumn": 4,
-                    "startOffset": 105137,
+                    "startOffset": 105250,
                     "endColumn": 95,
-                    "endOffset": 105228
+                    "endOffset": 105341
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7722,11 +7760,11 @@
             },
             {
                 "to": {
-                    "startLine": 1365,
+                    "startLine": 1367,
                     "startColumn": 4,
-                    "startOffset": 105233,
+                    "startOffset": 105346,
                     "endColumn": 95,
-                    "endOffset": 105324
+                    "endOffset": 105437
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7741,11 +7779,11 @@
             },
             {
                 "to": {
-                    "startLine": 1366,
+                    "startLine": 1368,
                     "startColumn": 4,
-                    "startOffset": 105329,
+                    "startOffset": 105442,
                     "endColumn": 97,
-                    "endOffset": 105422
+                    "endOffset": 105535
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7760,11 +7798,11 @@
             },
             {
                 "to": {
-                    "startLine": 1367,
+                    "startLine": 1369,
                     "startColumn": 4,
-                    "startOffset": 105427,
+                    "startOffset": 105540,
                     "endColumn": 99,
-                    "endOffset": 105522
+                    "endOffset": 105635
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7779,11 +7817,11 @@
             },
             {
                 "to": {
-                    "startLine": 1368,
+                    "startLine": 1370,
                     "startColumn": 4,
-                    "startOffset": 105527,
+                    "startOffset": 105640,
                     "endColumn": 101,
-                    "endOffset": 105624
+                    "endOffset": 105737
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7798,11 +7836,11 @@
             },
             {
                 "to": {
-                    "startLine": 1369,
+                    "startLine": 1371,
                     "startColumn": 4,
-                    "startOffset": 105629,
+                    "startOffset": 105742,
                     "endColumn": 101,
-                    "endOffset": 105726
+                    "endOffset": 105839
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7817,11 +7855,11 @@
             },
             {
                 "to": {
-                    "startLine": 1370,
+                    "startLine": 1372,
                     "startColumn": 4,
-                    "startOffset": 105731,
+                    "startOffset": 105844,
                     "endColumn": 101,
-                    "endOffset": 105828
+                    "endOffset": 105941
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7836,11 +7874,11 @@
             },
             {
                 "to": {
-                    "startLine": 1371,
+                    "startLine": 1373,
                     "startColumn": 4,
-                    "startOffset": 105833,
+                    "startOffset": 105946,
                     "endColumn": 101,
-                    "endOffset": 105930
+                    "endOffset": 106043
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7855,11 +7893,11 @@
             },
             {
                 "to": {
-                    "startLine": 1372,
+                    "startLine": 1374,
                     "startColumn": 4,
-                    "startOffset": 105935,
+                    "startOffset": 106048,
                     "endColumn": 101,
-                    "endOffset": 106032
+                    "endOffset": 106145
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7874,11 +7912,11 @@
             },
             {
                 "to": {
-                    "startLine": 1373,
+                    "startLine": 1375,
                     "startColumn": 4,
-                    "startOffset": 106037,
+                    "startOffset": 106150,
                     "endColumn": 99,
-                    "endOffset": 106132
+                    "endOffset": 106245
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7893,11 +7931,11 @@
             },
             {
                 "to": {
-                    "startLine": 1374,
+                    "startLine": 1376,
                     "startColumn": 4,
-                    "startOffset": 106137,
+                    "startOffset": 106250,
                     "endColumn": 95,
-                    "endOffset": 106228
+                    "endOffset": 106341
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7912,11 +7950,11 @@
             },
             {
                 "to": {
-                    "startLine": 1375,
+                    "startLine": 1377,
                     "startColumn": 4,
-                    "startOffset": 106233,
+                    "startOffset": 106346,
                     "endColumn": 111,
-                    "endOffset": 106340
+                    "endOffset": 106453
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7931,11 +7969,11 @@
             },
             {
                 "to": {
-                    "startLine": 1376,
+                    "startLine": 1378,
                     "startColumn": 4,
-                    "startOffset": 106345,
+                    "startOffset": 106458,
                     "endColumn": 128,
-                    "endOffset": 106469
+                    "endOffset": 106582
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7950,11 +7988,11 @@
             },
             {
                 "to": {
-                    "startLine": 1377,
+                    "startLine": 1379,
                     "startColumn": 4,
-                    "startOffset": 106474,
+                    "startOffset": 106587,
                     "endColumn": 122,
-                    "endOffset": 106592
+                    "endOffset": 106705
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7969,12 +8007,12 @@
             },
             {
                 "to": {
-                    "startLine": 1378,
+                    "startLine": 1380,
                     "startColumn": 4,
-                    "startOffset": 106597,
-                    "endLine": 1379,
+                    "startOffset": 106710,
+                    "endLine": 1381,
                     "endColumn": 12,
-                    "endOffset": 106746
+                    "endOffset": 106859
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7990,12 +8028,12 @@
             },
             {
                 "to": {
-                    "startLine": 1380,
+                    "startLine": 1382,
                     "startColumn": 4,
-                    "startOffset": 106751,
-                    "endLine": 1381,
+                    "startOffset": 106864,
+                    "endLine": 1383,
                     "endColumn": 12,
-                    "endOffset": 106900
+                    "endOffset": 107013
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8011,11 +8049,11 @@
             },
             {
                 "to": {
-                    "startLine": 1382,
+                    "startLine": 1384,
                     "startColumn": 4,
-                    "startOffset": 106905,
+                    "startOffset": 107018,
                     "endColumn": 97,
-                    "endOffset": 106998
+                    "endOffset": 107111
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8030,11 +8068,11 @@
             },
             {
                 "to": {
-                    "startLine": 1383,
+                    "startLine": 1385,
                     "startColumn": 4,
-                    "startOffset": 107003,
+                    "startOffset": 107116,
                     "endColumn": 113,
-                    "endOffset": 107112
+                    "endOffset": 107225
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8049,11 +8087,11 @@
             },
             {
                 "to": {
-                    "startLine": 1384,
+                    "startLine": 1386,
                     "startColumn": 4,
-                    "startOffset": 107117,
+                    "startOffset": 107230,
                     "endColumn": 93,
-                    "endOffset": 107206
+                    "endOffset": 107319
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8068,12 +8106,12 @@
             },
             {
                 "to": {
-                    "startLine": 1385,
+                    "startLine": 1387,
                     "startColumn": 4,
-                    "startOffset": 107211,
-                    "endLine": 1386,
+                    "startOffset": 107324,
+                    "endLine": 1388,
                     "endColumn": 12,
-                    "endOffset": 107346
+                    "endOffset": 107459
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8089,12 +8127,12 @@
             },
             {
                 "to": {
-                    "startLine": 1387,
+                    "startLine": 1389,
                     "startColumn": 4,
-                    "startOffset": 107351,
-                    "endLine": 1388,
+                    "startOffset": 107464,
+                    "endLine": 1390,
                     "endColumn": 12,
-                    "endOffset": 107480
+                    "endOffset": 107593
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8110,11 +8148,11 @@
             },
             {
                 "to": {
-                    "startLine": 1389,
+                    "startLine": 1391,
                     "startColumn": 4,
-                    "startOffset": 107485,
+                    "startOffset": 107598,
                     "endColumn": 95,
-                    "endOffset": 107576
+                    "endOffset": 107689
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8129,11 +8167,11 @@
             },
             {
                 "to": {
-                    "startLine": 1390,
+                    "startLine": 1392,
                     "startColumn": 4,
-                    "startOffset": 107581,
+                    "startOffset": 107694,
                     "endColumn": 111,
-                    "endOffset": 107688
+                    "endOffset": 107801
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8148,11 +8186,11 @@
             },
             {
                 "to": {
-                    "startLine": 1391,
+                    "startLine": 1393,
                     "startColumn": 4,
-                    "startOffset": 107693,
+                    "startOffset": 107806,
                     "endColumn": 99,
-                    "endOffset": 107788
+                    "endOffset": 107901
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8167,11 +8205,11 @@
             },
             {
                 "to": {
-                    "startLine": 1392,
+                    "startLine": 1394,
                     "startColumn": 4,
-                    "startOffset": 107793,
+                    "startOffset": 107906,
                     "endColumn": 115,
-                    "endOffset": 107904
+                    "endOffset": 108017
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8186,11 +8224,11 @@
             },
             {
                 "to": {
-                    "startLine": 1393,
+                    "startLine": 1395,
                     "startColumn": 4,
-                    "startOffset": 107909,
+                    "startOffset": 108022,
                     "endColumn": 95,
-                    "endOffset": 108000
+                    "endOffset": 108113
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8205,11 +8243,11 @@
             },
             {
                 "to": {
-                    "startLine": 1394,
+                    "startLine": 1396,
                     "startColumn": 4,
-                    "startOffset": 108005,
+                    "startOffset": 108118,
                     "endColumn": 111,
-                    "endOffset": 108112
+                    "endOffset": 108225
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8224,12 +8262,12 @@
             },
             {
                 "to": {
-                    "startLine": 1395,
+                    "startLine": 1397,
                     "startColumn": 4,
-                    "startOffset": 108117,
-                    "endLine": 1396,
+                    "startOffset": 108230,
+                    "endLine": 1398,
                     "endColumn": 12,
-                    "endOffset": 108252
+                    "endOffset": 108365
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8245,11 +8283,11 @@
             },
             {
                 "to": {
-                    "startLine": 1397,
+                    "startLine": 1399,
                     "startColumn": 4,
-                    "startOffset": 108257,
+                    "startOffset": 108370,
                     "endColumn": 135,
-                    "endOffset": 108388
+                    "endOffset": 108501
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8264,12 +8302,12 @@
             },
             {
                 "to": {
-                    "startLine": 1398,
+                    "startLine": 1400,
                     "startColumn": 4,
-                    "startOffset": 108393,
-                    "endLine": 1399,
+                    "startOffset": 108506,
+                    "endLine": 1401,
                     "endColumn": 12,
-                    "endOffset": 108552
+                    "endOffset": 108665
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8285,11 +8323,11 @@
             },
             {
                 "to": {
-                    "startLine": 1400,
+                    "startLine": 1402,
                     "startColumn": 4,
-                    "startOffset": 108557,
+                    "startOffset": 108670,
                     "endColumn": 129,
-                    "endOffset": 108682
+                    "endOffset": 108795
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8304,12 +8342,12 @@
             },
             {
                 "to": {
-                    "startLine": 1401,
+                    "startLine": 1403,
                     "startColumn": 4,
-                    "startOffset": 108687,
-                    "endLine": 1402,
+                    "startOffset": 108800,
+                    "endLine": 1404,
                     "endColumn": 12,
-                    "endOffset": 108840
+                    "endOffset": 108953
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8325,12 +8363,12 @@
             },
             {
                 "to": {
-                    "startLine": 1403,
+                    "startLine": 1405,
                     "startColumn": 4,
-                    "startOffset": 108845,
-                    "endLine": 1404,
+                    "startOffset": 108958,
+                    "endLine": 1406,
                     "endColumn": 12,
-                    "endOffset": 108990
+                    "endOffset": 109103
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8346,11 +8384,11 @@
             },
             {
                 "to": {
-                    "startLine": 1405,
+                    "startLine": 1407,
                     "startColumn": 4,
-                    "startOffset": 108995,
+                    "startOffset": 109108,
                     "endColumn": 140,
-                    "endOffset": 109131
+                    "endOffset": 109244
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8365,12 +8403,12 @@
             },
             {
                 "to": {
-                    "startLine": 1406,
+                    "startLine": 1408,
                     "startColumn": 4,
-                    "startOffset": 109136,
-                    "endLine": 1407,
+                    "startOffset": 109249,
+                    "endLine": 1409,
                     "endColumn": 12,
-                    "endOffset": 109275
+                    "endOffset": 109388
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8386,11 +8424,11 @@
             },
             {
                 "to": {
-                    "startLine": 1408,
+                    "startLine": 1410,
                     "startColumn": 4,
-                    "startOffset": 109280,
+                    "startOffset": 109393,
                     "endColumn": 134,
-                    "endOffset": 109410
+                    "endOffset": 109523
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8405,11 +8443,11 @@
             },
             {
                 "to": {
-                    "startLine": 1409,
+                    "startLine": 1411,
                     "startColumn": 4,
-                    "startOffset": 109415,
+                    "startOffset": 109528,
                     "endColumn": 111,
-                    "endOffset": 109522
+                    "endOffset": 109635
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8424,11 +8462,11 @@
             },
             {
                 "to": {
-                    "startLine": 1410,
+                    "startLine": 1412,
                     "startColumn": 4,
-                    "startOffset": 109527,
+                    "startOffset": 109640,
                     "endColumn": 127,
-                    "endOffset": 109650
+                    "endOffset": 109763
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8443,12 +8481,12 @@
             },
             {
                 "to": {
-                    "startLine": 1411,
+                    "startLine": 1413,
                     "startColumn": 4,
-                    "startOffset": 109655,
-                    "endLine": 1412,
+                    "startOffset": 109768,
+                    "endLine": 1414,
                     "endColumn": 12,
-                    "endOffset": 109786
+                    "endOffset": 109899
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8464,12 +8502,12 @@
             },
             {
                 "to": {
-                    "startLine": 1413,
+                    "startLine": 1415,
                     "startColumn": 4,
-                    "startOffset": 109791,
-                    "endLine": 1414,
+                    "startOffset": 109904,
+                    "endLine": 1416,
                     "endColumn": 12,
-                    "endOffset": 109928
+                    "endOffset": 110041
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8485,12 +8523,12 @@
             },
             {
                 "to": {
-                    "startLine": 1415,
+                    "startLine": 1417,
                     "startColumn": 4,
-                    "startOffset": 109933,
-                    "endLine": 1416,
+                    "startOffset": 110046,
+                    "endLine": 1418,
                     "endColumn": 12,
-                    "endOffset": 110070
+                    "endOffset": 110183
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8506,11 +8544,11 @@
             },
             {
                 "to": {
-                    "startLine": 1417,
+                    "startLine": 1419,
                     "startColumn": 4,
-                    "startOffset": 110075,
+                    "startOffset": 110188,
                     "endColumn": 111,
-                    "endOffset": 110182
+                    "endOffset": 110295
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8525,11 +8563,11 @@
             },
             {
                 "to": {
-                    "startLine": 1418,
+                    "startLine": 1420,
                     "startColumn": 4,
-                    "startOffset": 110187,
+                    "startOffset": 110300,
                     "endColumn": 139,
-                    "endOffset": 110322
+                    "endOffset": 110435
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8544,11 +8582,11 @@
             },
             {
                 "to": {
-                    "startLine": 1419,
+                    "startLine": 1421,
                     "startColumn": 4,
-                    "startOffset": 110327,
+                    "startOffset": 110440,
                     "endColumn": 67,
-                    "endOffset": 110390
+                    "endOffset": 110503
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8563,11 +8601,11 @@
             },
             {
                 "to": {
-                    "startLine": 1420,
+                    "startLine": 1422,
                     "startColumn": 4,
-                    "startOffset": 110395,
+                    "startOffset": 110508,
                     "endColumn": 72,
-                    "endOffset": 110463
+                    "endOffset": 110576
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8582,11 +8620,11 @@
             },
             {
                 "to": {
-                    "startLine": 1421,
+                    "startLine": 1423,
                     "startColumn": 4,
-                    "startOffset": 110468,
+                    "startOffset": 110581,
                     "endColumn": 73,
-                    "endOffset": 110537
+                    "endOffset": 110650
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8601,11 +8639,11 @@
             },
             {
                 "to": {
-                    "startLine": 1422,
+                    "startLine": 1424,
                     "startColumn": 4,
-                    "startOffset": 110542,
+                    "startOffset": 110655,
                     "endColumn": 72,
-                    "endOffset": 110610
+                    "endOffset": 110723
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8620,11 +8658,11 @@
             },
             {
                 "to": {
-                    "startLine": 1423,
+                    "startLine": 1425,
                     "startColumn": 4,
-                    "startOffset": 110615,
+                    "startOffset": 110728,
                     "endColumn": 73,
-                    "endOffset": 110684
+                    "endOffset": 110797
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8639,12 +8677,12 @@
             },
             {
                 "to": {
-                    "startLine": 1424,
+                    "startLine": 1426,
                     "startColumn": 4,
-                    "startOffset": 110689,
-                    "endLine": 1425,
+                    "startOffset": 110802,
+                    "endLine": 1427,
                     "endColumn": 12,
-                    "endOffset": 110830
+                    "endOffset": 110943
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8660,12 +8698,12 @@
             },
             {
                 "to": {
-                    "startLine": 1426,
+                    "startLine": 1428,
                     "startColumn": 4,
-                    "startOffset": 110835,
-                    "endLine": 1427,
+                    "startOffset": 110948,
+                    "endLine": 1429,
                     "endColumn": 12,
-                    "endOffset": 110974
+                    "endOffset": 111087
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8681,12 +8719,12 @@
             },
             {
                 "to": {
-                    "startLine": 1428,
+                    "startLine": 1430,
                     "startColumn": 4,
-                    "startOffset": 110979,
-                    "endLine": 1429,
+                    "startOffset": 111092,
+                    "endLine": 1431,
                     "endColumn": 12,
-                    "endOffset": 111112
+                    "endOffset": 111225
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8702,11 +8740,11 @@
             },
             {
                 "to": {
-                    "startLine": 1430,
+                    "startLine": 1432,
                     "startColumn": 4,
-                    "startOffset": 111117,
+                    "startOffset": 111230,
                     "endColumn": 65,
-                    "endOffset": 111178
+                    "endOffset": 111291
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8721,11 +8759,11 @@
             },
             {
                 "to": {
-                    "startLine": 1431,
+                    "startLine": 1433,
                     "startColumn": 4,
-                    "startOffset": 111183,
+                    "startOffset": 111296,
                     "endColumn": 89,
-                    "endOffset": 111268
+                    "endOffset": 111381
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8740,11 +8778,11 @@
             },
             {
                 "to": {
-                    "startLine": 1432,
+                    "startLine": 1434,
                     "startColumn": 4,
-                    "startOffset": 111273,
+                    "startOffset": 111386,
                     "endColumn": 79,
-                    "endOffset": 111348
+                    "endOffset": 111461
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8759,11 +8797,11 @@
             },
             {
                 "to": {
-                    "startLine": 1433,
+                    "startLine": 1435,
                     "startColumn": 4,
-                    "startOffset": 111353,
+                    "startOffset": 111466,
                     "endColumn": 91,
-                    "endOffset": 111440
+                    "endOffset": 111553
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8778,11 +8816,11 @@
             },
             {
                 "to": {
-                    "startLine": 1434,
+                    "startLine": 1436,
                     "startColumn": 4,
-                    "startOffset": 111445,
+                    "startOffset": 111558,
                     "endColumn": 97,
-                    "endOffset": 111538
+                    "endOffset": 111651
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8797,12 +8835,12 @@
             },
             {
                 "to": {
-                    "startLine": 1435,
+                    "startLine": 1437,
                     "startColumn": 4,
-                    "startOffset": 111543,
-                    "endLine": 1436,
+                    "startOffset": 111656,
+                    "endLine": 1438,
                     "endColumn": 12,
-                    "endOffset": 111648
+                    "endOffset": 111761
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8818,11 +8856,11 @@
             },
             {
                 "to": {
-                    "startLine": 1437,
+                    "startLine": 1439,
                     "startColumn": 4,
-                    "startOffset": 111653,
+                    "startOffset": 111766,
                     "endColumn": 77,
-                    "endOffset": 111726
+                    "endOffset": 111839
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8837,11 +8875,11 @@
             },
             {
                 "to": {
-                    "startLine": 1438,
+                    "startLine": 1440,
                     "startColumn": 4,
-                    "startOffset": 111731,
+                    "startOffset": 111844,
                     "endColumn": 105,
-                    "endOffset": 111832
+                    "endOffset": 111945
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8856,11 +8894,11 @@
             },
             {
                 "to": {
-                    "startLine": 1439,
+                    "startLine": 1441,
                     "startColumn": 4,
-                    "startOffset": 111837,
+                    "startOffset": 111950,
                     "endColumn": 91,
-                    "endOffset": 111924
+                    "endOffset": 112037
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8875,11 +8913,11 @@
             },
             {
                 "to": {
-                    "startLine": 1440,
+                    "startLine": 1442,
                     "startColumn": 4,
-                    "startOffset": 111929,
+                    "startOffset": 112042,
                     "endColumn": 103,
-                    "endOffset": 112028
+                    "endOffset": 112141
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8894,11 +8932,11 @@
             },
             {
                 "to": {
-                    "startLine": 1441,
+                    "startLine": 1443,
                     "startColumn": 4,
-                    "startOffset": 112033,
+                    "startOffset": 112146,
                     "endColumn": 109,
-                    "endOffset": 112138
+                    "endOffset": 112251
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8913,12 +8951,12 @@
             },
             {
                 "to": {
-                    "startLine": 1442,
+                    "startLine": 1444,
                     "startColumn": 4,
-                    "startOffset": 112143,
-                    "endLine": 1443,
+                    "startOffset": 112256,
+                    "endLine": 1445,
                     "endColumn": 12,
-                    "endOffset": 112260
+                    "endOffset": 112373
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8934,12 +8972,12 @@
             },
             {
                 "to": {
-                    "startLine": 1444,
+                    "startLine": 1446,
                     "startColumn": 4,
-                    "startOffset": 112265,
-                    "endLine": 1447,
+                    "startOffset": 112378,
+                    "endLine": 1449,
                     "endColumn": 12,
-                    "endOffset": 112423
+                    "endOffset": 112536
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8955,12 +8993,12 @@
             },
             {
                 "to": {
-                    "startLine": 1448,
+                    "startLine": 1450,
                     "startColumn": 4,
-                    "startOffset": 112428,
-                    "endLine": 1451,
+                    "startOffset": 112541,
+                    "endLine": 1453,
                     "endColumn": 12,
-                    "endOffset": 112580
+                    "endOffset": 112693
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8976,11 +9014,11 @@
             },
             {
                 "to": {
-                    "startLine": 1452,
+                    "startLine": 1454,
                     "startColumn": 4,
-                    "startOffset": 112585,
+                    "startOffset": 112698,
                     "endColumn": 79,
-                    "endOffset": 112660
+                    "endOffset": 112773
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8995,11 +9033,11 @@
             },
             {
                 "to": {
-                    "startLine": 1453,
+                    "startLine": 1455,
                     "startColumn": 4,
-                    "startOffset": 112665,
+                    "startOffset": 112778,
                     "endColumn": 99,
-                    "endOffset": 112760
+                    "endOffset": 112873
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9014,11 +9052,11 @@
             },
             {
                 "to": {
-                    "startLine": 1454,
+                    "startLine": 1456,
                     "startColumn": 4,
-                    "startOffset": 112765,
+                    "startOffset": 112878,
                     "endColumn": 89,
-                    "endOffset": 112850
+                    "endOffset": 112963
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9033,11 +9071,11 @@
             },
             {
                 "to": {
-                    "startLine": 1455,
+                    "startLine": 1457,
                     "startColumn": 4,
-                    "startOffset": 112855,
+                    "startOffset": 112968,
                     "endColumn": 109,
-                    "endOffset": 112960
+                    "endOffset": 113073
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9052,11 +9090,11 @@
             },
             {
                 "to": {
-                    "startLine": 1456,
+                    "startLine": 1458,
                     "startColumn": 4,
-                    "startOffset": 112965,
+                    "startOffset": 113078,
                     "endColumn": 91,
-                    "endOffset": 113052
+                    "endOffset": 113165
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9071,12 +9109,12 @@
             },
             {
                 "to": {
-                    "startLine": 1457,
+                    "startLine": 1459,
                     "startColumn": 4,
-                    "startOffset": 113057,
-                    "endLine": 1458,
+                    "startOffset": 113170,
+                    "endLine": 1460,
                     "endColumn": 12,
-                    "endOffset": 113152
+                    "endOffset": 113265
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9092,12 +9130,12 @@
             },
             {
                 "to": {
-                    "startLine": 1459,
+                    "startLine": 1461,
                     "startColumn": 4,
-                    "startOffset": 113157,
-                    "endLine": 1460,
+                    "startOffset": 113270,
+                    "endLine": 1462,
                     "endColumn": 12,
-                    "endOffset": 113264
+                    "endOffset": 113377
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9113,12 +9151,12 @@
             },
             {
                 "to": {
-                    "startLine": 1461,
+                    "startLine": 1463,
                     "startColumn": 4,
-                    "startOffset": 113269,
-                    "endLine": 1462,
+                    "startOffset": 113382,
+                    "endLine": 1464,
                     "endColumn": 12,
-                    "endOffset": 113378
+                    "endOffset": 113491
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9134,12 +9172,12 @@
             },
             {
                 "to": {
-                    "startLine": 1463,
+                    "startLine": 1465,
                     "startColumn": 4,
-                    "startOffset": 113383,
-                    "endLine": 1464,
+                    "startOffset": 113496,
+                    "endLine": 1466,
                     "endColumn": 12,
-                    "endOffset": 113494
+                    "endOffset": 113607
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9155,12 +9193,12 @@
             },
             {
                 "to": {
-                    "startLine": 1465,
+                    "startLine": 1467,
                     "startColumn": 4,
-                    "startOffset": 113499,
-                    "endLine": 1466,
+                    "startOffset": 113612,
+                    "endLine": 1468,
                     "endColumn": 12,
-                    "endOffset": 113610
+                    "endOffset": 113723
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9176,11 +9214,11 @@
             },
             {
                 "to": {
-                    "startLine": 1467,
+                    "startLine": 1469,
                     "startColumn": 4,
-                    "startOffset": 113615,
+                    "startOffset": 113728,
                     "endColumn": 93,
-                    "endOffset": 113704
+                    "endOffset": 113817
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9195,11 +9233,11 @@
             },
             {
                 "to": {
-                    "startLine": 1468,
+                    "startLine": 1470,
                     "startColumn": 4,
-                    "startOffset": 113709,
+                    "startOffset": 113822,
                     "endColumn": 113,
-                    "endOffset": 113818
+                    "endOffset": 113931
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9214,11 +9252,11 @@
             },
             {
                 "to": {
-                    "startLine": 1469,
+                    "startLine": 1471,
                     "startColumn": 4,
-                    "startOffset": 113823,
+                    "startOffset": 113936,
                     "endColumn": 111,
-                    "endOffset": 113930
+                    "endOffset": 114043
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9233,12 +9271,12 @@
             },
             {
                 "to": {
-                    "startLine": 1470,
+                    "startLine": 1472,
                     "startColumn": 4,
-                    "startOffset": 113935,
-                    "endLine": 1471,
+                    "startOffset": 114048,
+                    "endLine": 1473,
                     "endColumn": 12,
-                    "endOffset": 114032
+                    "endOffset": 114145
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9254,12 +9292,12 @@
             },
             {
                 "to": {
-                    "startLine": 1472,
+                    "startLine": 1474,
                     "startColumn": 4,
-                    "startOffset": 114037,
-                    "endLine": 1473,
+                    "startOffset": 114150,
+                    "endLine": 1475,
                     "endColumn": 12,
-                    "endOffset": 114152
+                    "endOffset": 114265
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9275,12 +9313,12 @@
             },
             {
                 "to": {
-                    "startLine": 1474,
+                    "startLine": 1476,
                     "startColumn": 4,
-                    "startOffset": 114157,
-                    "endLine": 1475,
+                    "startOffset": 114270,
+                    "endLine": 1477,
                     "endColumn": 12,
-                    "endOffset": 114274
+                    "endOffset": 114387
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9296,11 +9334,11 @@
             },
             {
                 "to": {
-                    "startLine": 1476,
+                    "startLine": 1478,
                     "startColumn": 4,
-                    "startOffset": 114279,
+                    "startOffset": 114392,
                     "endColumn": 81,
-                    "endOffset": 114356
+                    "endOffset": 114469
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9315,11 +9353,11 @@
             },
             {
                 "to": {
-                    "startLine": 1477,
+                    "startLine": 1479,
                     "startColumn": 4,
-                    "startOffset": 114361,
+                    "startOffset": 114474,
                     "endColumn": 103,
-                    "endOffset": 114460
+                    "endOffset": 114573
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9334,11 +9372,11 @@
             },
             {
                 "to": {
-                    "startLine": 1478,
+                    "startLine": 1480,
                     "startColumn": 4,
-                    "startOffset": 114465,
+                    "startOffset": 114578,
                     "endColumn": 119,
-                    "endOffset": 114580
+                    "endOffset": 114693
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9353,11 +9391,11 @@
             },
             {
                 "to": {
-                    "startLine": 1479,
+                    "startLine": 1481,
                     "startColumn": 4,
-                    "startOffset": 114585,
+                    "startOffset": 114698,
                     "endColumn": 125,
-                    "endOffset": 114706
+                    "endOffset": 114819
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9372,11 +9410,11 @@
             },
             {
                 "to": {
-                    "startLine": 1480,
+                    "startLine": 1482,
                     "startColumn": 4,
-                    "startOffset": 114711,
+                    "startOffset": 114824,
                     "endColumn": 97,
-                    "endOffset": 114804
+                    "endOffset": 114917
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9391,11 +9429,11 @@
             },
             {
                 "to": {
-                    "startLine": 1481,
+                    "startLine": 1483,
                     "startColumn": 4,
-                    "startOffset": 114809,
+                    "startOffset": 114922,
                     "endColumn": 93,
-                    "endOffset": 114898
+                    "endOffset": 115011
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9410,11 +9448,11 @@
             },
             {
                 "to": {
-                    "startLine": 1482,
+                    "startLine": 1484,
                     "startColumn": 4,
-                    "startOffset": 114903,
+                    "startOffset": 115016,
                     "endColumn": 87,
-                    "endOffset": 114986
+                    "endOffset": 115099
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9429,11 +9467,11 @@
             },
             {
                 "to": {
-                    "startLine": 1483,
+                    "startLine": 1485,
                     "startColumn": 4,
-                    "startOffset": 114991,
+                    "startOffset": 115104,
                     "endColumn": 111,
-                    "endOffset": 115098
+                    "endOffset": 115211
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9448,11 +9486,11 @@
             },
             {
                 "to": {
-                    "startLine": 1484,
+                    "startLine": 1486,
                     "startColumn": 4,
-                    "startOffset": 115103,
+                    "startOffset": 115216,
                     "endColumn": 115,
-                    "endOffset": 115214
+                    "endOffset": 115327
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9467,11 +9505,11 @@
             },
             {
                 "to": {
-                    "startLine": 1485,
+                    "startLine": 1487,
                     "startColumn": 4,
-                    "startOffset": 115219,
+                    "startOffset": 115332,
                     "endColumn": 121,
-                    "endOffset": 115336
+                    "endOffset": 115449
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9486,11 +9524,11 @@
             },
             {
                 "to": {
-                    "startLine": 1486,
+                    "startLine": 1488,
                     "startColumn": 4,
-                    "startOffset": 115341,
+                    "startOffset": 115454,
                     "endColumn": 111,
-                    "endOffset": 115448
+                    "endOffset": 115561
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9505,12 +9543,12 @@
             },
             {
                 "to": {
-                    "startLine": 1487,
+                    "startLine": 1489,
                     "startColumn": 4,
-                    "startOffset": 115453,
-                    "endLine": 1489,
+                    "startOffset": 115566,
+                    "endLine": 1491,
                     "endColumn": 12,
-                    "endOffset": 115623
+                    "endOffset": 115736
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9526,11 +9564,11 @@
             },
             {
                 "to": {
-                    "startLine": 1490,
+                    "startLine": 1492,
                     "startColumn": 4,
-                    "startOffset": 115628,
+                    "startOffset": 115741,
                     "endColumn": 115,
-                    "endOffset": 115739
+                    "endOffset": 115852
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9545,11 +9583,11 @@
             },
             {
                 "to": {
-                    "startLine": 1491,
+                    "startLine": 1493,
                     "startColumn": 4,
-                    "startOffset": 115744,
+                    "startOffset": 115857,
                     "endColumn": 85,
-                    "endOffset": 115825
+                    "endOffset": 115938
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9564,11 +9602,11 @@
             },
             {
                 "to": {
-                    "startLine": 1492,
+                    "startLine": 1494,
                     "startColumn": 4,
-                    "startOffset": 115830,
+                    "startOffset": 115943,
                     "endColumn": 91,
-                    "endOffset": 115917
+                    "endOffset": 116030
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9583,12 +9621,12 @@
             },
             {
                 "to": {
-                    "startLine": 1493,
+                    "startLine": 1495,
                     "startColumn": 4,
-                    "startOffset": 115922,
-                    "endLine": 1494,
+                    "startOffset": 116035,
+                    "endLine": 1496,
                     "endColumn": 12,
-                    "endOffset": 116029
+                    "endOffset": 116142
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9604,12 +9642,12 @@
             },
             {
                 "to": {
-                    "startLine": 1495,
+                    "startLine": 1497,
                     "startColumn": 4,
-                    "startOffset": 116034,
-                    "endLine": 1496,
+                    "startOffset": 116147,
+                    "endLine": 1498,
                     "endColumn": 12,
-                    "endOffset": 116153
+                    "endOffset": 116266
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9625,11 +9663,11 @@
             },
             {
                 "to": {
-                    "startLine": 1497,
+                    "startLine": 1499,
                     "startColumn": 4,
-                    "startOffset": 116158,
+                    "startOffset": 116271,
                     "endColumn": 66,
-                    "endOffset": 116220
+                    "endOffset": 116333
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9644,12 +9682,12 @@
             },
             {
                 "to": {
-                    "startLine": 1498,
+                    "startLine": 1500,
                     "startColumn": 4,
-                    "startOffset": 116225,
-                    "endLine": 1499,
+                    "startOffset": 116338,
+                    "endLine": 1501,
                     "endColumn": 12,
-                    "endOffset": 116346
+                    "endOffset": 116459
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9665,11 +9703,11 @@
             },
             {
                 "to": {
-                    "startLine": 1500,
+                    "startLine": 1502,
                     "startColumn": 4,
-                    "startOffset": 116351,
+                    "startOffset": 116464,
                     "endColumn": 67,
-                    "endOffset": 116414
+                    "endOffset": 116527
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9684,12 +9722,12 @@
             },
             {
                 "to": {
-                    "startLine": 1501,
+                    "startLine": 1503,
                     "startColumn": 4,
-                    "startOffset": 116419,
-                    "endLine": 1502,
+                    "startOffset": 116532,
+                    "endLine": 1504,
                     "endColumn": 12,
-                    "endOffset": 116542
+                    "endOffset": 116655
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9705,12 +9743,12 @@
             },
             {
                 "to": {
-                    "startLine": 1503,
+                    "startLine": 1505,
                     "startColumn": 4,
-                    "startOffset": 116547,
-                    "endLine": 1504,
+                    "startOffset": 116660,
+                    "endLine": 1506,
                     "endColumn": 12,
-                    "endOffset": 116686
+                    "endOffset": 116799
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9726,12 +9764,12 @@
             },
             {
                 "to": {
-                    "startLine": 1505,
+                    "startLine": 1507,
                     "startColumn": 4,
-                    "startOffset": 116691,
-                    "endLine": 1506,
+                    "startOffset": 116804,
+                    "endLine": 1508,
                     "endColumn": 12,
-                    "endOffset": 116814
+                    "endOffset": 116927
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9747,11 +9785,11 @@
             },
             {
                 "to": {
-                    "startLine": 1507,
+                    "startLine": 1509,
                     "startColumn": 4,
-                    "startOffset": 116819,
+                    "startOffset": 116932,
                     "endColumn": 68,
-                    "endOffset": 116883
+                    "endOffset": 116996
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9766,11 +9804,11 @@
             },
             {
                 "to": {
-                    "startLine": 1508,
+                    "startLine": 1510,
                     "startColumn": 4,
-                    "startOffset": 116888,
+                    "startOffset": 117001,
                     "endColumn": 94,
-                    "endOffset": 116978
+                    "endOffset": 117091
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9785,11 +9823,11 @@
             },
             {
                 "to": {
-                    "startLine": 1509,
+                    "startLine": 1511,
                     "startColumn": 4,
-                    "startOffset": 116983,
+                    "startOffset": 117096,
                     "endColumn": 114,
-                    "endOffset": 117093
+                    "endOffset": 117206
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9804,11 +9842,11 @@
             },
             {
                 "to": {
-                    "startLine": 1510,
+                    "startLine": 1512,
                     "startColumn": 4,
-                    "startOffset": 117098,
+                    "startOffset": 117211,
                     "endColumn": 112,
-                    "endOffset": 117206
+                    "endOffset": 117319
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9823,11 +9861,11 @@
             },
             {
                 "to": {
-                    "startLine": 1511,
+                    "startLine": 1513,
                     "startColumn": 4,
-                    "startOffset": 117211,
+                    "startOffset": 117324,
                     "endColumn": 98,
-                    "endOffset": 117305
+                    "endOffset": 117418
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9842,11 +9880,11 @@
             },
             {
                 "to": {
-                    "startLine": 1512,
+                    "startLine": 1514,
                     "startColumn": 4,
-                    "startOffset": 117310,
+                    "startOffset": 117423,
                     "endColumn": 108,
-                    "endOffset": 117414
+                    "endOffset": 117527
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9861,11 +9899,11 @@
             },
             {
                 "to": {
-                    "startLine": 1513,
+                    "startLine": 1515,
                     "startColumn": 4,
-                    "startOffset": 117419,
+                    "startOffset": 117532,
                     "endColumn": 110,
-                    "endOffset": 117525
+                    "endOffset": 117638
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9880,11 +9918,11 @@
             },
             {
                 "to": {
-                    "startLine": 1514,
+                    "startLine": 1516,
                     "startColumn": 4,
-                    "startOffset": 117530,
+                    "startOffset": 117643,
                     "endColumn": 110,
-                    "endOffset": 117636
+                    "endOffset": 117749
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9899,11 +9937,11 @@
             },
             {
                 "to": {
-                    "startLine": 1515,
+                    "startLine": 1517,
                     "startColumn": 4,
-                    "startOffset": 117641,
+                    "startOffset": 117754,
                     "endColumn": 100,
-                    "endOffset": 117737
+                    "endOffset": 117850
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9918,11 +9956,11 @@
             },
             {
                 "to": {
-                    "startLine": 1516,
+                    "startLine": 1518,
                     "startColumn": 4,
-                    "startOffset": 117742,
+                    "startOffset": 117855,
                     "endColumn": 104,
-                    "endOffset": 117842
+                    "endOffset": 117955
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9937,12 +9975,12 @@
             },
             {
                 "to": {
-                    "startLine": 1517,
+                    "startLine": 1519,
                     "startColumn": 4,
-                    "startOffset": 117847,
-                    "endLine": 1518,
+                    "startOffset": 117960,
+                    "endLine": 1520,
                     "endColumn": 12,
-                    "endOffset": 117954
+                    "endOffset": 118067
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9958,12 +9996,12 @@
             },
             {
                 "to": {
-                    "startLine": 1519,
+                    "startLine": 1521,
                     "startColumn": 4,
-                    "startOffset": 117959,
-                    "endLine": 1520,
+                    "startOffset": 118072,
+                    "endLine": 1522,
                     "endColumn": 12,
-                    "endOffset": 118084
+                    "endOffset": 118197
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9979,11 +10017,11 @@
             },
             {
                 "to": {
-                    "startLine": 1521,
+                    "startLine": 1523,
                     "startColumn": 4,
-                    "startOffset": 118089,
+                    "startOffset": 118202,
                     "endColumn": 90,
-                    "endOffset": 118175
+                    "endOffset": 118288
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9998,11 +10036,11 @@
             },
             {
                 "to": {
-                    "startLine": 1522,
+                    "startLine": 1524,
                     "startColumn": 4,
-                    "startOffset": 118180,
+                    "startOffset": 118293,
                     "endColumn": 122,
-                    "endOffset": 118298
+                    "endOffset": 118411
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10017,12 +10055,12 @@
             },
             {
                 "to": {
-                    "startLine": 1523,
+                    "startLine": 1525,
                     "startColumn": 4,
-                    "startOffset": 118303,
-                    "endLine": 1524,
+                    "startOffset": 118416,
+                    "endLine": 1526,
                     "endColumn": 12,
-                    "endOffset": 118410
+                    "endOffset": 118523
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10038,11 +10076,11 @@
             },
             {
                 "to": {
-                    "startLine": 1525,
+                    "startLine": 1527,
                     "startColumn": 4,
-                    "startOffset": 118415,
+                    "startOffset": 118528,
                     "endColumn": 85,
-                    "endOffset": 118496
+                    "endOffset": 118609
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10057,11 +10095,11 @@
             },
             {
                 "to": {
-                    "startLine": 1526,
+                    "startLine": 1528,
                     "startColumn": 4,
-                    "startOffset": 118501,
+                    "startOffset": 118614,
                     "endColumn": 103,
-                    "endOffset": 118600
+                    "endOffset": 118713
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10076,12 +10114,12 @@
             },
             {
                 "to": {
-                    "startLine": 1527,
+                    "startLine": 1529,
                     "startColumn": 4,
-                    "startOffset": 118605,
-                    "endLine": 1528,
+                    "startOffset": 118718,
+                    "endLine": 1530,
                     "endColumn": 12,
-                    "endOffset": 118708
+                    "endOffset": 118821
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10097,12 +10135,12 @@
             },
             {
                 "to": {
-                    "startLine": 1529,
+                    "startLine": 1531,
                     "startColumn": 4,
-                    "startOffset": 118713,
-                    "endLine": 1530,
+                    "startOffset": 118826,
+                    "endLine": 1532,
                     "endColumn": 12,
-                    "endOffset": 118808
+                    "endOffset": 118921
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10118,12 +10156,12 @@
             },
             {
                 "to": {
-                    "startLine": 1531,
+                    "startLine": 1533,
                     "startColumn": 4,
-                    "startOffset": 118813,
-                    "endLine": 1532,
+                    "startOffset": 118926,
+                    "endLine": 1534,
                     "endColumn": 12,
-                    "endOffset": 118926
+                    "endOffset": 119039
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10139,12 +10177,12 @@
             },
             {
                 "to": {
-                    "startLine": 1533,
+                    "startLine": 1535,
                     "startColumn": 4,
-                    "startOffset": 118931,
-                    "endLine": 1534,
+                    "startOffset": 119044,
+                    "endLine": 1536,
                     "endColumn": 12,
-                    "endOffset": 119030
+                    "endOffset": 119143
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10160,12 +10198,12 @@
             },
             {
                 "to": {
-                    "startLine": 1535,
+                    "startLine": 1537,
                     "startColumn": 4,
-                    "startOffset": 119035,
-                    "endLine": 1536,
+                    "startOffset": 119148,
+                    "endLine": 1538,
                     "endColumn": 12,
-                    "endOffset": 119134
+                    "endOffset": 119247
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10181,12 +10219,12 @@
             },
             {
                 "to": {
-                    "startLine": 1537,
+                    "startLine": 1539,
                     "startColumn": 4,
-                    "startOffset": 119139,
-                    "endLine": 1538,
+                    "startOffset": 119252,
+                    "endLine": 1540,
                     "endColumn": 12,
-                    "endOffset": 119260
+                    "endOffset": 119373
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10202,11 +10240,11 @@
             },
             {
                 "to": {
-                    "startLine": 1539,
+                    "startLine": 1541,
                     "startColumn": 4,
-                    "startOffset": 119265,
+                    "startOffset": 119378,
                     "endColumn": 87,
-                    "endOffset": 119348
+                    "endOffset": 119461
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10221,11 +10259,11 @@
             },
             {
                 "to": {
-                    "startLine": 1540,
+                    "startLine": 1542,
                     "startColumn": 4,
-                    "startOffset": 119353,
+                    "startOffset": 119466,
                     "endColumn": 89,
-                    "endOffset": 119438
+                    "endOffset": 119551
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10240,11 +10278,11 @@
             },
             {
                 "to": {
-                    "startLine": 1541,
+                    "startLine": 1543,
                     "startColumn": 4,
-                    "startOffset": 119443,
+                    "startOffset": 119556,
                     "endColumn": 109,
-                    "endOffset": 119548
+                    "endOffset": 119661
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10259,11 +10297,11 @@
             },
             {
                 "to": {
-                    "startLine": 1542,
+                    "startLine": 1544,
                     "startColumn": 4,
-                    "startOffset": 119553,
+                    "startOffset": 119666,
                     "endColumn": 83,
-                    "endOffset": 119632
+                    "endOffset": 119745
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10278,11 +10316,11 @@
             },
             {
                 "to": {
-                    "startLine": 1543,
+                    "startLine": 1545,
                     "startColumn": 4,
-                    "startOffset": 119637,
+                    "startOffset": 119750,
                     "endColumn": 83,
-                    "endOffset": 119716
+                    "endOffset": 119829
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10297,11 +10335,11 @@
             },
             {
                 "to": {
-                    "startLine": 1544,
+                    "startLine": 1546,
                     "startColumn": 4,
-                    "startOffset": 119721,
+                    "startOffset": 119834,
                     "endColumn": 53,
-                    "endOffset": 119770
+                    "endOffset": 119883
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10316,11 +10354,11 @@
             },
             {
                 "to": {
-                    "startLine": 1545,
+                    "startLine": 1547,
                     "startColumn": 4,
-                    "startOffset": 119775,
+                    "startOffset": 119888,
                     "endColumn": 63,
-                    "endOffset": 119834
+                    "endOffset": 119947
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10335,11 +10373,11 @@
             },
             {
                 "to": {
-                    "startLine": 1546,
+                    "startLine": 1548,
                     "startColumn": 4,
-                    "startOffset": 119839,
+                    "startOffset": 119952,
                     "endColumn": 105,
-                    "endOffset": 119940
+                    "endOffset": 120053
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10354,11 +10392,11 @@
             },
             {
                 "to": {
-                    "startLine": 1547,
+                    "startLine": 1549,
                     "startColumn": 4,
-                    "startOffset": 119945,
+                    "startOffset": 120058,
                     "endColumn": 109,
-                    "endOffset": 120050
+                    "endOffset": 120163
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10373,11 +10411,11 @@
             },
             {
                 "to": {
-                    "startLine": 1548,
+                    "startLine": 1550,
                     "startColumn": 4,
-                    "startOffset": 120055,
+                    "startOffset": 120168,
                     "endColumn": 83,
-                    "endOffset": 120134
+                    "endOffset": 120247
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10392,11 +10430,11 @@
             },
             {
                 "to": {
-                    "startLine": 1549,
+                    "startLine": 1551,
                     "startColumn": 4,
-                    "startOffset": 120139,
+                    "startOffset": 120252,
                     "endColumn": 119,
-                    "endOffset": 120254
+                    "endOffset": 120367
                 },
                 "from": {
                     "file": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",

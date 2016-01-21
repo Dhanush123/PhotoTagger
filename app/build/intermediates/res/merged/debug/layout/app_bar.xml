@@ -10,5 +10,4 @@
     android:layout_alignParentTop="true"
     app:titleTextAppearance="@style/AppTheme.Toolbar.Title"
     >
-
 </android.support.v7.widget.Toolbar>

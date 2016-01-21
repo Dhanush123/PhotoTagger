@@ -5,4 +5,6 @@
     <string name="imageShow">imageShow</string>
     <string name="choosePhotoButton">Choose Photo</string>
     <string name="retryIDButton">Advanced Scan Photo</string>
+    <string name="superScanButton">Video Scan</string>
+    <string name="feedbackButton">Send Feedback!</string>
 </resources>

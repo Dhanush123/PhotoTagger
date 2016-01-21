@@ -1,7 +1,9 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/background">
+    android:background="@drawable/tiles"
+    android:id="@+id/mainPage"
+    >
     <LinearLayout
         android:id="@+id/linearLay"
         android:layout_width="fill_parent"
@@ -34,6 +36,13 @@
             android:layout_height="match_parent"
             android:text="@string/retryIDButton"
             android:id="@+id/retryIDButton"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            />
+        <Button
+            android:layout_height="match_parent"
+            android:text="@string/superScanButton"
+            android:id="@+id/videoScanButton"
             android:layout_weight="1"
             android:layout_width="0dp"
             />

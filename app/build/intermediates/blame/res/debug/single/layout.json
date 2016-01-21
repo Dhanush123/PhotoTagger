@@ -68,6 +68,10 @@
         "source": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_part_time.xml"
     },
     {
+        "merged": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/res/merged/debug/layout/activity_settings.xml",
+        "source": "/Users/chapatel/GitHub/PhotoTagger/app/src/main/res/layout/activity_settings.xml"
+    },
+    {
         "merged": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
         "source": "/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_icon.xml"
     },
