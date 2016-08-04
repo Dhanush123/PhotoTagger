@@ -945,7 +945,7 @@ public class AlchemyAPI {
     {
         URL url = new URL(_requestUri + "image/ImageGetRankedImageKeywords?" + 
             "apikey=" + this._apiKey + params.getParameterString());
-        System.out.println(url.toString());
+        //System.out.println(url.toString()); can't have this leaked during production
 
         HttpURLConnection handle = (HttpURLConnection) url.openConnection();
         handle.setDoOutput(true);

@@ -121,6 +121,13 @@ public class MainActivity extends AppCompatActivity {
         choosePhotoButton = (Button) findViewById(R.id.choosePhotoButton);
         retryIDButton = (Button) findViewById(R.id.retryIDButton);
         videoScanButton = (Button) findViewById(R.id.videoScanButton);
+
+        /* commented out until button spacing issue upon color changing isn't fixed
+        takePhotoButton.setBackgroundColor(ContextCompat.getColor(getApplicationContext(), R.color.colorAccent));
+        choosePhotoButton.setBackgroundColor(ContextCompat.getColor(getApplicationContext(), R.color.colorAccent));
+        retryIDButton.setBackgroundColor(ContextCompat.getColor(getApplicationContext(), R.color.colorAccent));
+        videoScanButton.setBackgroundColor(ContextCompat.getColor(getApplicationContext(), R.color.colorAccent));
+        */
         photoShow = (ImageView) findViewById(R.id.photoShow);
         photoTags = (TextView) findViewById(R.id.photoTags);
         rl = (RelativeLayout) findViewById(R.id.mainPage);
@@ -331,10 +338,10 @@ public class MainActivity extends AppCompatActivity {
         // Specify the type of input expected
         input.setInputType(InputType.TYPE_CLASS_TEXT);
         if(firstTag==null){
-            input.setHint("ex: car");
+            input.setHint("try: car");
         }
         else {
-            input.setHint("ex: " + firstTag);
+            input.setHint("try: " + firstTag);
         }
         builder.setView(input);
 
@@ -392,6 +399,7 @@ public class MainActivity extends AppCompatActivity {
         }
         retryIDButton.setVisibility(View.GONE);
     }
+
     @SuppressLint("LongLogTag")
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent intent) {
@@ -483,13 +491,13 @@ public class MainActivity extends AppCompatActivity {
 
                 Uri uri = intent.getData();
                 if(uri!=null){
-                    Log.i("uri data isn't empty hopefully",uri.toString());
+                   // Log.i("uri data isn't empty hopefully",uri.toString()); can't have this leaked during production
                 }
                 //---------------------------------
                 //the file to bytes code is from http://stackoverflow.com/questions/10039672/android-how-to-read-file-in-bytes
                 File file = new File(getPath(getApplicationContext(),uri));
                 int size = (int) file.length();
-                if (size < 52428800){ //currently limiting video at 50MB b/c of OOM error
+                if (size < 34603008){ //currently limiting video at 33MB b/c of OOM error
                     byte[] bytes = new byte[size];
                     try {
                         BufferedInputStream buf = new BufferedInputStream(new FileInputStream(file));
@@ -528,8 +536,8 @@ public class MainActivity extends AppCompatActivity {
                     }.executeOnExecutor(AsyncTask.THREAD_POOL_EXECUTOR, null);
                 }
                 else{
-                   Toast.makeText(getApplicationContext(),"Sorry, video is too big (50MB or bigger).",Toast.LENGTH_SHORT).show();
-                    Log.i("video is too big (50MB or bigger)",size+" bytes");
+                   Toast.makeText(getApplicationContext(),"Sorry, video is too big (33MB or bigger).",Toast.LENGTH_SHORT).show();
+                    Log.i("video is too big (33MB or bigger)",size+" bytes");
                 }
             }
             else{
@@ -675,7 +683,19 @@ public class MainActivity extends AppCompatActivity {
     public void getBackground(){
         SharedPreferences sharedPreference= PreferenceManager.getDefaultSharedPreferences(getBaseContext());
         String codeGot = sharedPreference.getString("background", "tiles");
-
+        switch (codeGot){
+            case "tiles":
+                rl.setBackgroundResource(R.drawable.tiles);
+                break;
+            case "wood":
+                rl.setBackgroundResource(R.drawable.darkwood);
+                break;
+            case "linen":
+                rl.setBackgroundResource(R.drawable.blacklinen);
+                break;
+            default:
+                Toast.makeText(getApplicationContext(), "Error: could not set background", Toast.LENGTH_SHORT).show();
+        }
         //code to actually set background work in progress, currently redacted due to it not working...
     }
 
