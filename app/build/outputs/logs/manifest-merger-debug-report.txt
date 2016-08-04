@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/chapatel/GitHub/PhotoTagger/app/src/main/AndroidManifest.xml:2:1-49:12
+ADDED from /Users/chapatel/GitHub/PhotoTagger/app/src/main/AndroidManifest.xml:2:1-50:12
 	xmlns:android
 		ADDED from /Users/chapatel/GitHub/PhotoTagger/app/src/main/AndroidManifest.xml:2:11-69
 	package
@@ -14,9 +14,9 @@ ADDED from /Users/chapatel/GitHub/PhotoTagger/app/src/main/AndroidManifest.xml:2
 		INJECTED from /Users/chapatel/GitHub/PhotoTagger/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/chapatel/GitHub/PhotoTagger/app/src/main/AndroidManifest.xml
 uses-feature#android.hardware.camera
-ADDED from /Users/chapatel/GitHub/PhotoTagger/app/src/main/AndroidManifest.xml:5:5-7:35
+ADDED from /Users/chapatel/GitHub/PhotoTagger/app/src/main/AndroidManifest.xml:5:5-7:36
 	android:required
-		ADDED from /Users/chapatel/GitHub/PhotoTagger/app/src/main/AndroidManifest.xml:7:9-32
+		ADDED from /Users/chapatel/GitHub/PhotoTagger/app/src/main/AndroidManifest.xml:7:9-33
 	android:name
 		ADDED from /Users/chapatel/GitHub/PhotoTagger/app/src/main/AndroidManifest.xml:6:9-47
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
@@ -36,7 +36,7 @@ ADDED from /Users/chapatel/GitHub/PhotoTagger/app/src/main/AndroidManifest.xml:1
 	android:name
 		ADDED from /Users/chapatel/GitHub/PhotoTagger/app/src/main/AndroidManifest.xml:12:22-76
 application
-ADDED from /Users/chapatel/GitHub/PhotoTagger/app/src/main/AndroidManifest.xml:14:5-47:19
+ADDED from /Users/chapatel/GitHub/PhotoTagger/app/src/main/AndroidManifest.xml:14:5-48:19
 MERGED from [com.android.support:appcompat-v7:23.1.1] /Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.1.1] /Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/AndroidManifest.xml:19:5-20
@@ -83,12 +83,12 @@ ADDED from /Users/chapatel/GitHub/PhotoTagger/app/src/main/AndroidManifest.xml:3
 	android:value
 		ADDED from /Users/chapatel/GitHub/PhotoTagger/app/src/main/AndroidManifest.xml:38:17-46
 meta-data#com.google.android.gms.version
-ADDED from /Users/chapatel/GitHub/PhotoTagger/app/src/main/AndroidManifest.xml:44:9-46:69
+ADDED from /Users/chapatel/GitHub/PhotoTagger/app/src/main/AndroidManifest.xml:45:9-47:69
 MERGED from [com.google.android.gms:play-services-basement:8.1.0] /Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
 	android:name
-		ADDED from /Users/chapatel/GitHub/PhotoTagger/app/src/main/AndroidManifest.xml:45:13-58
+		ADDED from /Users/chapatel/GitHub/PhotoTagger/app/src/main/AndroidManifest.xml:46:13-58
 	android:value
-		ADDED from /Users/chapatel/GitHub/PhotoTagger/app/src/main/AndroidManifest.xml:46:13-66
+		ADDED from /Users/chapatel/GitHub/PhotoTagger/app/src/main/AndroidManifest.xml:47:13-66
 uses-sdk
 INJECTED from /Users/chapatel/GitHub/PhotoTagger/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:23.1.1] /Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:20:5-43

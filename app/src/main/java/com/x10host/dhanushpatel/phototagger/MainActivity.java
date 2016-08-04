@@ -1,5 +1,6 @@
 package com.x10host.dhanushpatel.phototagger;
 
+import android.Manifest;
 import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.app.SearchManager;
@@ -9,6 +10,7 @@ import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.content.pm.PackageManager;
 import android.database.Cursor;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
@@ -25,6 +27,8 @@ import android.preference.PreferenceManager;
 import android.provider.DocumentsContract;
 import android.provider.MediaStore;
 import android.provider.Settings;
+import android.support.v4.app.ActivityCompat;
+import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
@@ -66,6 +70,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.text.SimpleDateFormat;
+import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Date;
 import java.util.List;
@@ -73,9 +78,18 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
-    static int TAKE_PICTURE = 1;
-    static int PICK_PHOTO = 2;
-    static int PICK_VIDEO = 3;
+    private static final int TAKE_PICTURE = 1;
+    private static final int PICK_PHOTO = 2;
+    private static final int PICK_VIDEO = 3;
+    private static final int MULT_PERMISSIONS = 100;
+
+    String[] permissions = new String[] {
+            Manifest.permission.WRITE_EXTERNAL_STORAGE,
+            Manifest.permission.READ_EXTERNAL_STORAGE,
+    };
+
+//    private static final int MY_PERMISSIONS_REQUEST_READ_EXTERNAL_STORAGE = 11;
+//    private static final int MY_PERMISSIONS_REQUEST_WRITE_EXTERNAL_STORAGE = 12;
     boolean pickOrChoose = true;
     Button takePhotoButton;
     Button choosePhotoButton;
@@ -149,7 +163,73 @@ public class MainActivity extends AppCompatActivity {
         if(!isNetworkAvailable()){
             createNetworkErrorDialog();
         }
+
+        if(checkPermissions()){
+        }
+        else{
+            permissionFailDialogCreate();
+        }
     }
+
+    private void permissionFailDialogCreate(){
+        AlertDialog.Builder builder = new AlertDialog.Builder(this);
+        builder.setMessage("You need to allow all permissions for the app to interact with photos and videos on your device.")
+                .setTitle("Unable to access files")
+                .setCancelable(false)
+                .setPositiveButton("Enable",
+                        new DialogInterface.OnClickListener() {
+                            public void onClick(DialogInterface dialog, int id) {
+                                if(checkPermissions()){
+
+                                }
+                                else{
+                                  dialog.cancel();
+                                  permissionFailDialogCreate();
+                                }
+                            }
+                        }
+                )
+                .setNegativeButton("Cancel",
+                        new DialogInterface.OnClickListener() {
+                            public void onClick(DialogInterface dialog, int id) {
+                                dialog.cancel();
+                            }
+                        }
+                );
+        AlertDialog alert = builder.create();
+        alert.show();
+    }
+
+    private boolean checkPermissions() {
+        int result;
+        List<String> listPermissionsNeeded = new ArrayList<>();
+        for (String p:permissions) {
+            result = ContextCompat.checkSelfPermission(MainActivity.this,p);
+            if (result != PackageManager.PERMISSION_GRANTED) {
+                listPermissionsNeeded.add(p);
+            }
+        }
+        if (!listPermissionsNeeded.isEmpty()) {
+            ActivityCompat.requestPermissions(this, listPermissionsNeeded.toArray(new String[listPermissionsNeeded.size()]), MULT_PERMISSIONS);
+            return false;
+        }
+        return true;
+    }
+
+    @Override
+    public void onRequestPermissionsResult(int requestCode, String permissions[], int[] grantResults) {
+        switch (requestCode) {
+            case MULT_PERMISSIONS:{
+                if(grantResults.length > 0 && grantResults[0] == PackageManager.PERMISSION_GRANTED){
+                    // permissions granted.
+                } else {
+                    permissionFailDialogCreate();
+                }
+                return;
+            }
+        }
+    }
+
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
@@ -200,6 +280,12 @@ public class MainActivity extends AppCompatActivity {
         takePhotoButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+
+                if(checkPermissions()){
+                }
+                else{
+                    permissionFailDialogCreate();
+                }
                 //pickOrChoose = true;
                 // create intent with ACTION_IMAGE_CAPTURE action
                 Intent intent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
@@ -211,6 +297,12 @@ public class MainActivity extends AppCompatActivity {
         choosePhotoButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+
+                if(checkPermissions()){
+                }
+                else{
+                    permissionFailDialogCreate();
+                }
                // pickOrChoose = false;
                 Intent intent = new Intent(Intent.ACTION_GET_CONTENT);
                 intent.setType("image/*");
@@ -220,6 +312,12 @@ public class MainActivity extends AppCompatActivity {
         retryIDButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+
+                if(checkPermissions()){
+                }
+                else{
+                    permissionFailDialogCreate();
+                }
                 if (!reachedMonthlyClarifaiLimit()){
                     updateClarifaiLimit();
                     photoTags.setText("Analyzing photo...");
@@ -251,6 +349,12 @@ public class MainActivity extends AppCompatActivity {
         videoScanButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+
+                if(checkPermissions()){
+                }
+                else{
+                    permissionFailDialogCreate();
+                }
                 pickOrChoose = false;
                 Intent intent = new Intent(Intent.ACTION_GET_CONTENT);
                 intent.setType("video/*");

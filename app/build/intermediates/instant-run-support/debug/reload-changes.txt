@@ -1,0 +1,14 @@
+CHANGED,/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/x10host/dhanushpatel/phototagger/MainActivity$1$override.class
+CHANGED,/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/x10host/dhanushpatel/phototagger/MainActivity$7$override.class
+CHANGED,/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/x10host/dhanushpatel/phototagger/MainActivity$3$override.class
+CHANGED,/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/x10host/dhanushpatel/phototagger/MainActivity$10$override.class
+CHANGED,/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/x10host/dhanushpatel/phototagger/MainActivity$override.class
+CHANGED,/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/x10host/dhanushpatel/phototagger/MainActivity$2$override.class
+CHANGED,/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/x10host/dhanushpatel/phototagger/MainActivity$6$override.class
+CHANGED,/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/x10host/dhanushpatel/phototagger/MainActivity$8$override.class
+CHANGED,/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/x10host/dhanushpatel/phototagger/MainActivity$9$override.class
+CHANGED,/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/x10host/dhanushpatel/phototagger/MainActivity$11$override.class
+CHANGED,/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/x10host/dhanushpatel/phototagger/MainActivity$4$override.class
+CHANGED,/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/x10host/dhanushpatel/phototagger/MainActivity$5$override.class
+CHANGED,/Users/chapatel/GitHub/PhotoTagger/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/x10host/dhanushpatel/phototagger/BuildConfig$override.class
